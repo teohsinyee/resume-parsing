@@ -28,3 +28,16 @@ https://www.listendata.com/2018/05/named-entity-recognition-using-python.html
 
 ## 4] Skills API
 https://apilayer.com/marketplace/description/skills-api
+
+## 5] Codes to extract each fields
+- Quite simple & straight forward
+
+| Field         | Method        |
+| ------------- |:-------------:| 
+| Name          | NLTK          | 
+| Skills        | Corpus/API with help of N-gram   |   
+| Institution   | Find institution corpus to train NER model & train using Spacy | 
+
+https://blog.apilayer.com/build-your-own-resume-parser-using-python-and-nlp/
+
+## 6] x
