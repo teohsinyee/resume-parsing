@@ -12,5 +12,12 @@
 2. Different meanings of same word
 
 ### Approaches
+1. Apply NER to deep learning model (BIOES tagging)
+2. model architecture-LSTMs 
+(it takes into account the context of a word in a statement)
+3. curate dataset for model training and evaluation
+(started unlabelled training data & searched for tools online for manual annotation efforts within the team). 
+4. hired some people to do the data labelling and started the training process 
+5. model had crossed our benchmark of 80.0
 
 # 2] 
