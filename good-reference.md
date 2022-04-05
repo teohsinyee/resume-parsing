@@ -23,4 +23,7 @@ We experimented with different vector embeddings including **fastText** and **cu
 
 BroutonLab AI parser: https://broutonlab.com/broutonlab-data-science-success-stories/ai-nlp-for-resume-parsing-and-job-matching
 
-## 3]
+## 3] Overview of Stanford NER Tagger
+https://www.listendata.com/2018/05/named-entity-recognition-using-python.html
+
+## 4] x
