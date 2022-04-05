@@ -12,7 +12,7 @@
 2. Different meanings of same word
 
 ### Approaches
-1. Apply NER to deep learning model (BIOES tagging)
+1. Apply NER to deep learning model ([BIOES tagging](http://ml.cau.ac.kr/activities/outputs/210803-BIOES,%20Conditional%20Random%20Field.pdf))
 2. model architecture-LSTMs 
 (it takes into account the context of a word in a statement)
 3. curate dataset for model training and evaluation
