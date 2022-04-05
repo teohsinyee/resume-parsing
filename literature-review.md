@@ -20,4 +20,6 @@
 4. hired some people to do the data labelling and started the training process 
 5. model had crossed our benchmark of 80.0
 
+Article URL: https://medium.com/skillate/smart-recruitment-cracking-resume-parsing-through-deep-learning-part-ii-563ff2dc800b
+
 # 2] 
