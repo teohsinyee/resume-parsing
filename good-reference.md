@@ -26,4 +26,5 @@ BroutonLab AI parser: https://broutonlab.com/broutonlab-data-science-success-sto
 ## 3] Overview of Stanford NER Tagger
 https://www.listendata.com/2018/05/named-entity-recognition-using-python.html
 
-## 4] x
+## 4] Skills API
+https://apilayer.com/marketplace/description/skills-api
