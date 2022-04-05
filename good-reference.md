@@ -40,4 +40,12 @@ https://apilayer.com/marketplace/description/skills-api
 
 https://blog.apilayer.com/build-your-own-resume-parser-using-python-and-nlp/
 
-## 6] x
+## 6] Accurate software demo
+- Return in JSON format
+- Gender detection from picture
+- Return address coordinate
+- Education title quite accurate
+- 
+https://labs.hrflow.ai/profile-analysis/parsing/
+
+## 7]
