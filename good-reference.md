@@ -69,4 +69,18 @@ https://blog.apilayer.com/build-your-own-resume-parser-using-python-and-nlp/
 
 https://labs.hrflow.ai/profile-analysis/parsing/
 
-## 7]
+## 7] Detailed & layman's NER Process
+1. Collected 420 resumes
+2. Annotate manually using Doccano
+3. Split into 80(training), 20(testing)
+3. Develop model using Spacy
+- Becuz Spacy got higher speed & accuracy
+- Can refer to Spacy archi
+4. Train model
+- Use techniques like dropout & shuffle data after each iteration
+5. Evaluate model
+- Use mterics such as accuracy score, precision, recall, and F-score
+
+https://www.kharpann.com/portfolio/named-entity-recognition-from-resumes/
+
+## 8] 
