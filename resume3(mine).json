@@ -1,0 +1,326 @@
+{
+    "source_key": "ba83334325f8a2ec307a15068c66384828c4ab56",
+    "id": 4292592,
+    "key": "71b43138725f08f5b70cb12bf1994572403c1461",
+    "reference": "",
+    "consent_algorithmic": {
+        "owner": {
+            "parsing": false,
+            "revealing": false,
+            "embedding": false,
+            "searching": false,
+            "scoring": false,
+            "reasoning": false
+        },
+        "controller": {
+            "parsing": false,
+            "revealing": false,
+            "embedding": false,
+            "searching": false,
+            "scoring": false,
+            "reasoning": false
+        }
+    },
+    "source": {
+        "key": "ba83334325f8a2ec307a15068c66384828c4ab56",
+        "name": "profile-labs",
+        "type": "api",
+        "subtype": "http_api",
+        "environment": "production"
+    },
+    "archive": null,
+    "archived_at": null,
+    "updated_at": "2022-04-06T01:57:40+0000",
+    "created_at": "2022-04-06T01:57:40+0000",
+    "info": {
+        "full_name": "TEOH SIN YEE",
+        "first_name": "TEOH",
+        "last_name": "SIN YEE",
+        "email": "teohsinyee.cs@gmail.com",
+        "phone": "+601120132175",
+        "date_birth": null,
+        "location": {
+            "text": "Ipoh , Perak , Malaysia",
+            "lat": 4.59857,
+            "lng": 101.11988,
+            "gmaps": null,
+            "fields": {
+                "category": null,
+                "city": "Ipoh",
+                "city_district": null,
+                "country": "MYS",
+                "country_region": null,
+                "entrance": null,
+                "house": null,
+                "house_number": null,
+                "island": null,
+                "level": null,
+                "near": null,
+                "po_box": null,
+                "postcode": "31400",
+                "road": null,
+                "staircase": null,
+                "state": "Perak",
+                "state_district": "Kinta",
+                "suburb": null,
+                "text": "Ipoh, Perak, Malaysia",
+                "unit": null,
+                "world_region": null
+            }
+        },
+        "urls": [
+            {
+                "type": "linkedin",
+                "url": "www.linkedin.com/in/teohsinyee"
+            },
+            {
+                "type": "github",
+                "url": "https://github.com/teohsinyee"
+            }
+        ],
+        "picture": null,
+        "gender": null,
+        "summary": "Working as Part - time System tester"
+    },
+    "text_language": "en",
+    "text": "Page 1 of 2 \n \nTEOH SIN YEE \nContact Number: +6011-20132175                                       Hometown: Ipoh, Perak, Malaysia       \n___________________________________________________________________________ \nEDUCATION \nUniversiti Sains Malaysia (2019 – Present) \nBachelor of Computer Sciences (Hons.) \n• Currently in Sem 5 (8 semesters in total) \n• Major in Intelligent Computing, Minor in Management \n• CGPA 3.46/4.00 \n \nWORKING EXPERIENCE \nHilti Asia IT Services Sdn Bhd (Sep 2021- Present) \nWorking as Part-time System tester in a team and find bugs from Hilti ON!Track Asset \nManagement Application \nSchool of Computer Sciences Universiti Sains Malaysia (Oct 2021- Present) \nWorking as Tutor and teaching 110 CS students foundations of software engineering \n \nAWARDS AND RECOGNITION \nMicrosoft Learn Student Ambassador (Jan 2021- Present) \nTan Sri Lee Loy Seng Foundation Scholarship by Kuala Lumpur Kepong Berhad (Sep 2019-\nPresent) \n \nPROJECT EXPERIENCE \nResearch: Exploring Foodpanda consumer reviews using Part of speech and N-gram \n \nLEADERSHIP & INVOLVEMENT \nProject Director of CS Final Year Project Showcase, Pixel 2021 (Apr 2021- Sep 2021) \n• Lead a team of 48 members of Computer Science Society USM \n• Designed a Virtual Showcase Website within 3 months and gained 20,000 visits in 1 \nweek   \n \nSKILLS \nProgramming stacks \nIn general: familiar with Python, R \n• Artificial Intelligence \nNatural Language Processing, Machine Learning, Deep Learning, SQL, Microsoft \nPower BI, Microsoft Excel \n \nteohsinyee.cs@gmail.com \nwww.linkedin.com/in/teohsinyee \nhttps://github.com/teohsinyee \n\nPage 2 of 2 \n \nLanguage Spoken  \nChinese (Native Speaker), English, Malay \n \nREFEREE \nAssociate Professor Dr Nurul Hashimah Ahamed Hassain Malim \nSenior Lecturer, Deputy Dean \nSchool of Computer Sciences Universiti Sains Malaysia \n+60 19-313 1449 \nnurulhashimah@usm.my \n \n \n",
+    "experiences_duration": 1.2604978568039,
+    "educations_duration": 3.2632375828298,
+    "experiences": [
+        {
+            "key": "3bc2c8321aa349f48ed38f0ae1a8d38b2ca1d9d8",
+            "title": "Working as Part - time System tester",
+            "description": "Hilti Asia IT Services Sdn Bhd (  -  )\n Working as Part - time System tester in a team and find bugs from Hilti ON ! Track Asset\n Management Application",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2021-09-01T00:00:00",
+            "date_end": "2022-04-06T01:57:40.412169",
+            "skills": [
+                {
+                    "name": "hilti on ! track asset",
+                    "type": "hard",
+                    "value": null
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "company": "Hilti Asia IT Services Sdn Bhd"
+        },
+        {
+            "key": "4f4e74931f9be9be9a8abeaf221da5ded93fb935",
+            "title": "",
+            "description": "Research : Exploring Foodpanda consumer reviews using Part of speech and N - gram",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": null,
+            "date_end": null,
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [
+                {
+                    "name": "exploring foodpanda consumer reviews using part of speech and n - gram",
+                    "value": null
+                }
+            ],
+            "company": ""
+        },
+        {
+            "key": "7540a96312d41c93c412cd67eb50a1e72e2d3446",
+            "title": "LEADERSHIP & INVOLVEMENT",
+            "description": "LEADERSHIP & INVOLVEMENT\n Project Director of CS Final Year Project Showcase ,  (  - Sep 2 0 2 1 )\n\n • Lead a team of 4 8 members of Computer Science Society USM\n • Designed a Virtual Showcase Website within 3 months and gained 2 0 , 0 0 0 visits in 1\n\n week",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2021-01-01T00:00:00",
+            "date_end": "2021-09-01T00:00:00",
+            "skills": [
+                {
+                    "name": "virtual showcase website",
+                    "type": "hard",
+                    "value": null
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "company": "USM"
+        }
+    ],
+    "educations": [
+        {
+            "key": "b427f256698be0def0762cc70c99113e271ca15a",
+            "title": "Bachelor of Computer Sciences",
+            "description": "Universiti Sains Malaysia (  –  )\n Bachelor of Computer Sciences ( Hons . )\n\n • Currently in Sem 5 ( 8 semesters in total )\n • Major in Intelligent Computing , Minor in Management\n • CGPA 3 . 4 6 / 4 . 0 0",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2019-01-01T00:00:00",
+            "date_end": "2022-04-06T01:57:40.411998",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "school": "Universiti Sains Malaysia"
+        },
+        {
+            "key": "4aacd9afa1a668418a6ac8660b73b6586c62ee14",
+            "title": "Working as Tutor and teaching 1 1 0 CS students foundations of software engineering",
+            "description": "School of Computer Sciences Universiti Sains Malaysia (  -  )\n Working as Tutor and teaching 1 1 0 CS students foundations of software engineering",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2021-10-01T00:00:00",
+            "date_end": "2022-04-06T01:57:40.412065",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "school": "School of Computer Sciences Universiti Sains Malaysia"
+        },
+        {
+            "key": "e8d5f84122018efa5501db30e92ad68d08c589aa",
+            "title": "",
+            "description": "Microsoft Learn Student Ambassador (  -  )\n Tan Sri Lee Loy Seng Foundation Scholarship by Kuala Lumpur Kepong Berhad ( Sep 2 0 1 9 -\n  )",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2019-09-01T00:00:00",
+            "date_end": "2022-04-06T01:57:40.412122",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "school": "Tan Sri Lee Loy Seng Foundation Scholarship by Kuala Lumpur Kepong Berhad"
+        }
+    ],
+    "attachments": [
+        {
+            "type": "original",
+            "alt": "1eed989bccf1db8dd0f7d8c0422c0b8690646d10",
+            "file_size": 83475,
+            "file_name": "original",
+            "original_file_name": "original",
+            "extension": ".pdf",
+            "public_url": "https://riminder-documents-eu-2019-12.s3-eu-west-1.amazonaws.com/teams/786243bd688f6789122701a2e9b70f56cabe575e/sources/ba83334325f8a2ec307a15068c66384828c4ab56/profiles/71b43138725f08f5b70cb12bf1994572403c1461/parsing/original.pdf",
+            "updated_at": "2022-04-06T01:57:40+0000",
+            "created_at": "2022-04-06T01:57:40+0000"
+        },
+        {
+            "type": "resume",
+            "alt": "046c46c10a6418e816e038f50015269504ba3058",
+            "file_size": 77498,
+            "file_name": "resume",
+            "original_file_name": "resume",
+            "extension": ".pdf",
+            "public_url": "https://riminder-documents-eu-2019-12.s3-eu-west-1.amazonaws.com/teams/786243bd688f6789122701a2e9b70f56cabe575e/sources/ba83334325f8a2ec307a15068c66384828c4ab56/profiles/71b43138725f08f5b70cb12bf1994572403c1461/parsing/resume.pdf",
+            "updated_at": "2022-04-06T01:57:40+0000",
+            "created_at": "2022-04-06T01:57:40+0000"
+        }
+    ],
+    "skills": [
+        {
+            "name": "python",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "r",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "natural language processing",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "machine learning",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "deep learning",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "sql",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "microsoft",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "power bi",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "microsoft excel",
+            "type": "hard",
+            "value": null
+        }
+    ],
+    "languages": [
+        {
+            "name": "chinese",
+            "value": null
+        },
+        {
+            "name": "english",
+            "value": null
+        },
+        {
+            "name": "malay",
+            "value": null
+        }
+    ],
+    "certifications": [],
+    "courses": [],
+    "tasks": [
+        {
+            "name": "exploring foodpanda consumer reviews using part of speech and n - gram",
+            "value": null
+        }
+    ],
+    "interests": [],
+    "labels": [],
+    "tags": [
+        {
+            "name": "referrer",
+            "value": null
+        }
+    ],
+    "metadatas": []
+}
