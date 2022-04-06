@@ -33,7 +33,7 @@ https://apilayer.com/marketplace/description/skills-api
 - Quite simple & straight forward
 
 | Field         | Method        |
-| ------------- |:-------------:| 
+| :------------- |:-------------| 
 | Name          | NLTK          | 
 | Skills        | Corpus/API with help of N-gram   |   
 | Institution   | Find institution corpus to train NER model & train using Spacy | 
@@ -41,8 +41,10 @@ https://apilayer.com/marketplace/description/skills-api
 https://blog.apilayer.com/build-your-own-resume-parser-using-python-and-nlp/
 
 ## 6] Accurate software demo
+- Return in JSON format with 7 main keys (headers)
+
 | Personal info      | My comments      |
-| ------------- |:-------------| 
+| :------------- |:-------------| 
 | Name| Accurate becuz it's simple |
 | Email, Phone | Accurate becuz it's simple (Regex) |
 | Home Address | Segmented to designated fields. Detection of *country & states & postcodes* are accurate. Data enrichment is good (E.g. Convert Pulau Pinang to Penang) |
@@ -57,14 +59,13 @@ https://blog.apilayer.com/build-your-own-resume-parser-using-python-and-nlp/
 |Date start & ends| Inaccurate why?|
 
 | Other headers     | My comments      |
-| ------------- |:-------------| 
+| :------------- |:-------------| 
 | Working experiences | Can't even process 'Research Fellow' or 'tutor'.|   
-| Attachments  | Less useful | 
 | Skills  | Accurate | 
 | Languages  | Accurate | 
 | Tasks  | Less useful | 
+| Attachments  | Less useful | 
 
-- Return in JSON format
 
 https://labs.hrflow.ai/profile-analysis/parsing/
 
