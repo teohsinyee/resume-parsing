@@ -1,0 +1,679 @@
+{
+    "source_key": "ba83334325f8a2ec307a15068c66384828c4ab56",
+    "id": 4281391,
+    "key": "08722398b83e867d39c49b51f2fb050ef89efcc4",
+    "reference": "",
+    "consent_algorithmic": {
+        "owner": {
+            "parsing": false,
+            "revealing": false,
+            "embedding": false,
+            "searching": false,
+            "scoring": false,
+            "reasoning": false
+        },
+        "controller": {
+            "parsing": false,
+            "revealing": false,
+            "embedding": false,
+            "searching": false,
+            "scoring": false,
+            "reasoning": false
+        }
+    },
+    "source": {
+        "key": "ba83334325f8a2ec307a15068c66384828c4ab56",
+        "name": "profile-labs",
+        "type": "api",
+        "subtype": "http_api",
+        "environment": "production"
+    },
+    "archive": null,
+    "archived_at": null,
+    "updated_at": "2022-04-05T09:06:51+0000",
+    "created_at": "2022-04-05T09:06:51+0000",
+    "info": {
+        "full_name": "Alexander Nikolas Walzer",
+        "first_name": "Alexander Nikolas",
+        "last_name": "Walzer",
+        "email": "awalzer@ethz.ch",
+        "phone": "",
+        "date_birth": null,
+        "location": {
+            "text": "Switzerland",
+            "lat": 46.94843,
+            "lng": 7.44046,
+            "gmaps": null,
+            "fields": {
+                "category": null,
+                "city": null,
+                "city_district": null,
+                "country": "CHE",
+                "country_region": null,
+                "entrance": null,
+                "house": null,
+                "house_number": null,
+                "island": null,
+                "level": null,
+                "near": null,
+                "po_box": null,
+                "postcode": null,
+                "road": null,
+                "staircase": null,
+                "state": null,
+                "state_district": null,
+                "suburb": null,
+                "text": "Switzerland",
+                "unit": null,
+                "world_region": null
+            }
+        },
+        "urls": [],
+        "picture": null,
+        "gender": null,
+        "summary": "interested in open innovation and entrepreneurship for AEC technologies"
+    },
+    "text_language": "en",
+    "text": "Alexander Nikolas Walzer\nSwitzerland\nawalzer@ethz.ch\nSummary\ninterested in open innovation and entrepreneurship for AEC technologies\nExperience\nIndependent Consultant\nwalzer.tech\nApr 2019 - Present (1 year 10 months +)\nFull-stack AEC technology consulting services that include market research, product/system R&D\npaired with strategy and business development reports. Clients are design agencies, ConTech and\nSaaS Startups, Non-profit organizations and VC funds in EU and the US, as well as construction\nindustry conglomerates.\nIMCRC Research Fellow\nRMIT University\nJan 2020 - Jan 2021 (1 year 1 month)\nWe streamline the process between design and custom manufacturing. Based inside the Architectural\nRobotics Lab at RMIT School of Architecture and Design we are developing bespoke robotized\nprocesses for Australian SMEs, such as Wire-arc Additive Manufacturing (WAAM) Metal 3D\nPrinting and Incremental Sheetforming (ISF) - we do this in close collaboration with UAP Company,\nUoWollongong, FIF and the QUT in Brisbane. This collaborative research is made possible by the\nInnovative Manufacturing Cooperative Research Centre (IMCRC) in Design Robotics. Pro-active\nindustry knowledge transfer is conducted through the Open Innovation Network, affiliated seminars,\nwebinars and demos at the ARMHub.\nNCCR Research Assistant\nETH Zürich\nJan 2016 - Dec 2019 (4 years)\nGramazio Kohler Research / NCCR Digital Fabrication: working on Mesh Mould with the In-Situ\nFabricator, incl. the NCCR dfabhouse 1:1 demonstrator at the Empa NEST building, tutoring in the\nArchitecture BSc., MSc. and MAS Postgrad Digital Fabrication Programme, close collaborator with the\nADRL, Disney Research Zurich’s Computational Design and Manufacturing Group and Swiss Industry\npartners Zühlke, Schlatter, Bürgin 3D Creations. ETH StudentProjectHouse: Makerspace manager and\ncollaborator. D-ARCH Rapid Architectural Prototyping Lab (RapLab): RA (Digital Prototyping)\nFabLab Intern / Trainee\nFab Lab Barcelona\nFeb 2015 - Jun 2015 (5 months)\nR&D in both IaaC and Valldaura Labs. Projects include the Smart Citizen Kit, a WikiHouse (built with AA\nstudents in a week) and an Open Source Deltabot (as part of MIT FabAcademy).\nAlexander Nikolas Walzer - page 1\n\nEducation\nETH Zürich\nDoctor of Science, Entrepreneurship for Digital Fabrication and Robotics in AEC\n2021 - 2024\nThe Chair of Innovative and Industrial Construction (Prof. Dr. Hall) seeks to increase innovation in\nthe built environment by investigating how new forms of process, organization, and information can\nintegrate the supply chain of the vertically, horizontally, and longitudinally fragmented construction\nindustry. Our research and teaching focus includes lean management processes to improve\nproductivity, digital building information modeling to improve coordination, new forms of project\ndelivery to govern complex projects, and new organizational orientations to spark entrepreneurship for\nindustrialized construction in the developed and developing world.\nTechnische Universität Wien\nMaster of Science (MSc) / Dipl.-Ing., Architecture, Spatial Planning\n2016 - 2018\nDiploma thesis: E Mare Libertas (Prof. Dr. Berthold) - Archdiploma19; eVolo & 3DHubs shortlist. This\nproject looked at densification strategies for Singapore and proposed a vertically stacked, modular\nskyscraper on the sea using generative design and environmental analysis.\nLeopold-Franzens Universität Innsbruck\nBachelor of Science (BSc), Architecture\n2013 - 2014\nBachelorthesis Prof. Theo Spyropolous (Director AADRL), Electives at ioud and Studio FRoche\nRMIT University\nArchitecture\n2015 - 2015\nRobotic Fabrication Studio with M. d. Campo (Award of Excellence Shortlist), Slowbotics Elective (G.\nJahn), RMIT Mace (3D printed Titanium at AMP), Texas FieldConstruct Pavilion (R. Snooks).\nPolitecnico di Milano\nArchitectural Sciences\n2012 - 2013\nLanguage stay Como (one month) and Perugia (one month). Travelling Workshops, Parametric Design\nand Geometry Coursework.\nLicenses & Certifications\nFab(rication) Academy - Massachusetts Institute of Technology\nAustralian Manufacturing Academy - Advanced Manufacturing Growth Centre Ltd\nTechnology Entrepreneurship: Lab to Market - HarvardX\nAlexander Nikolas Walzer - page 2\n\nSkills\nArchitectural Design   •   Rapid Prototyping   •   3D Printing   •   Information Architecture   •   Design Research   •  \nRobotics   •   Consulting   •   Business Strategy   •   Project Management   •   Design Thinking\nHonors & Awards\nErasmus Exchange Scholarship - Austrian Exchange Service (OeAD)\nSep 2012\nScholarship for studying at Politecnico di Milano (Italy).\nABB Robotics Mobility Grant - ABB Robotics\nMay 2014\nMobility Grant awarded by ABB Robotics for young researches in the field of robotics in Architecture at\nthe Rob|Arch2014 conference, University of Michigan (US).\nLeonardo da Vinci Grant - European Comission Life Long Learning Programme\n(LLP)\nFeb 2015\nScholarship for working at Fabrication Laboratory (FabLab) / IaaC Barcelona (Spain).\nJoint Study Scholarship - State of Tyrol, Austria\nJul 2015\nScholarship for studying at RMIT University (Australia).\nSwiss Technology Award - Swiss Innovation Forum\nNov 2016\nThe project team behind the novel building technology «Mesh Mould» received the Swiss Technology\nAward 2016 in the category «Inventors». The award is Switzerland's most prestigious award for\ninnovation and technology. «Mesh Mould» allows to build load-bearing concrete elements of any shape\nwithout formwork.\nConcrete Innovation Conference (CIC) Award 2017 - Norwegian Concrete\nAssociation\nMar 2017\nThe Mesh Mould project team received the award in the category “Buildability – Efficient Construction\nTechniques” for their presentation “Mesh Mould – an On-site, Robotically Fabricated Functional\nFormwork”.\nArchdiploma 2019 Exhibition - TU Wien\nNov 2019\nDiploma thesis biennal exhibition at TVFA Hall in Vienna (1/56 chosen projects of two years)\nProject: \"E Mare Libertas\" on modular construction for stacked off-shore housing in Singapore\nAlexander Nikolas Walzer - page 3\n",
+    "experiences_duration": 8.4164383561644,
+    "educations_duration": 4.9945205479452,
+    "experiences": [
+        {
+            "key": "929379c8536f94959ecc3a6be5b4822f555d6bd8",
+            "title": "Independent Consultant",
+            "description": "Independent Consultant\n walzer . tech\n  -  ( 1 year 1 0 months + )\n Full - stack AEC technology consulting services that include market research , product / system R & D\n paired with strategy and business development reports . Clients are design agencies , ConTech and\n SaaS Startups , Non - profit organizations and VC funds in EU and the  , as well as construction\n industry conglomerates .",
+            "location": {
+                "text": "US",
+                "lat": 38.89037,
+                "lng": -77.03196,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2019-04-01T00:00:00",
+            "date_end": "2022-04-05T09:06:50.535889",
+            "skills": [
+                {
+                    "name": "aec",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "contech",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "saas startups",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "vc funds",
+                    "type": "hard",
+                    "value": null
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "tasks": [
+                {
+                    "name": "clients are design agencies",
+                    "value": null
+                }
+            ],
+            "company": "walzer . tech"
+        },
+        {
+            "key": "85c2d69fa6615f6a0472a286e2acbf3a4537c8bf",
+            "title": "",
+            "description": "IMCRC Research Fellow\n RMIT University\n  -  ( 1 year 1 month )\n We streamline the process between design and custom manufacturing . Based inside the Architectural\n Robotics Lab at RMIT School of Architecture and Design we are developing bespoke robotized\n processes for Australian SMEs , such as Wire - arc Additive Manufacturing ( WAAM ) Metal 3D\n Printing and Incremental Sheetforming ( ISF ) - we do this in close collaboration with UAP Company ,\n UoWollongong , FIF and the QUT in  . This collaborative research is made possible by the\n Innovative Manufacturing Cooperative Research Centre ( IMCRC ) in Design Robotics . Pro - active\n industry knowledge transfer is conducted through the Open Innovation Network , affiliated seminars ,\n webinars and demos at the ARMHub .",
+            "location": {
+                "text": "Brisbane",
+                "lat": -27.46844,
+                "lng": 153.02334,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2020-01-01T00:00:00",
+            "date_end": "2021-01-01T00:00:00",
+            "skills": [
+                {
+                    "name": "waam",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "metal 3d",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "sheetforming",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "isf",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "imcrc",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "design robotics",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "open innovation network",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "armhub",
+                    "type": "hard",
+                    "value": null
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "tasks": [
+                {
+                    "name": "we streamline the process between design and custom manufacturing",
+                    "value": null
+                },
+                {
+                    "name": "based inside the architectural",
+                    "value": null
+                }
+            ],
+            "company": "IMCRC Research Fellow"
+        },
+        {
+            "key": "c145e350ad48a21473455df90305e339eee73bb0",
+            "title": "NCCR Research Assistant",
+            "description": "NCCR Research Assistant\n ETH Zürich\n  -  ( 4 years )\n Gramazio Kohler Research / NCCR Digital Fabrication : working on Mesh Mould with the In - Situ\n Fabricator , incl . the NCCR dfabhouse 1 : 1 demonstrator at the Empa NEST building , tutoring in the\n Architecture BSc . , MSc . and MAS Postgrad Digital Fabrication Programme , close collaborator with the\n ADRL , Disney Research Zurich ’ s Computational Design and Manufacturing Group and Swiss Industry\n partners Zühlke , Schlatter , Bürgin 3D Creations . ETH StudentProjectHouse : Makerspace manager and\n collaborator . D - ARCH Rapid Architectural Prototyping Lab ( RapLab ) : RA ( Digital Prototyping )",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2016-01-01T00:00:00",
+            "date_end": "2019-12-01T00:00:00",
+            "skills": [
+                {
+                    "name": "mesh mould",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "nccr",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "nest",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "bsc",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "mas",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "raplab",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "ra",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "digital prototyping",
+                    "type": "hard",
+                    "value": null
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "company": "ETH Zürich"
+        },
+        {
+            "key": "731e7b987cd87f7c7c04fbf6f9c33d84c3b31569",
+            "title": "FabLab Intern",
+            "description": "FabLab Intern / Trainee\n Fab Lab Barcelona\n  -  ( 5 months )\n R & D in both IaaC and Valldaura Labs . Projects include the Smart Citizen Kit , a WikiHouse ( built with AA\n students in a week ) and an Open Source Deltabot ( as part of MIT FabAcademy ) .",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2015-02-01T00:00:00",
+            "date_end": "2015-06-01T00:00:00",
+            "skills": [
+                {
+                    "name": "smart citizen kit",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "wikihouse",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "aa",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "open source deltabot",
+                    "type": "hard",
+                    "value": null
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "company": "Fab Lab Barcelona"
+        },
+        {
+            "key": "ca52222a064f3aa76a9bdc760ba4d1f09655b86e",
+            "title": "",
+            "description": "ETH Zürich\n Doctor of Science , Entrepreneurship for Digital Fabrication and Robotics in AEC\n  - \n The Chair of Innovative and Industrial Construction ( Prof . Dr . Hall ) seeks to increase innovation in\n the built environment by investigating how new forms of process , organization , and information can\n integrate the supply chain of the vertically , horizontally , and longitudinally fragmented construction\n industry . Our research and teaching focus includes lean management processes to improve\n productivity , digital building information modeling to improve coordination , new forms of project\n delivery to govern complex projects , and new organizational orientations to spark entrepreneurship for\n industrialized construction in the developed and developing world .",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2021-01-01T00:00:00",
+            "date_end": "2024-01-01T00:00:00",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "company": "ETH Zürich"
+        },
+        {
+            "key": "ae51f35b4578e2858502bfa36140f6803f2a1799",
+            "title": "",
+            "description": "RMIT University\n Architecture\n  - \n Robotic Fabrication Studio with M . d . Campo ( Award of Excellence Shortlist ) , Slowbotics Elective ( G .\n Jahn ) , RMIT Mace ( 3D printed Titanium at AMP ) , Texas FieldConstruct Pavilion ( R . Snooks ) .",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2015-01-01T00:00:00",
+            "date_end": "2015-01-01T00:00:00",
+            "skills": [
+                {
+                    "name": "excellence shortlist",
+                    "type": "hard",
+                    "value": null
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "company": "RMIT University\n Architecture"
+        },
+        {
+            "key": "9527b3ba818605f1d8007efb462f378583260bc0",
+            "title": "",
+            "description": "ABB Robotics Mobility Grant - ABB Robotics\n \n Mobility Grant awarded by ABB Robotics for young researches in the field of robotics in Architecture at\n the Rob | Arch 2 0 1 4 conference , University of Michigan (  ) .",
+            "location": {
+                "text": "US",
+                "lat": 38.89037,
+                "lng": -77.03196,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2014-05-01T00:00:00",
+            "date_end": "2014-05-31T00:00:00",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "company": "ABB Robotics"
+        },
+        {
+            "key": "8c78c7edbc3fe6096f6cf7495c669e91344f8b30",
+            "title": "",
+            "description": "Swiss Technology Award - Swiss Innovation Forum\n \n The project team behind the novel building technology « Mesh Mould » received the Swiss Technology\n Award  in the category « Inventors » . The award is Switzerland ' s most prestigious award for\n innovation and technology . « Mesh Mould » allows to build load - bearing concrete elements of any shape\n without formwork .",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2016-01-01T00:00:00",
+            "date_end": "2016-11-01T00:00:00",
+            "skills": [
+                {
+                    "name": "mesh mould",
+                    "type": "hard",
+                    "value": null
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "company": "Swiss Technology Award - Swiss Innovation Forum"
+        },
+        {
+            "key": "6b62889d411fa4853fe49c44471fb03044334b8b",
+            "title": "",
+            "description": "Concrete Innovation Conference ( CIC )  - Norwegian Concrete\n Association\n \n The Mesh Mould project team received the award in the category “ Buildability – Efficient Construction\n Techniques ” for their presentation “ Mesh Mould – an On - site , Robotically Fabricated Functional\n Formwork ” .",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2017-01-01T00:00:00",
+            "date_end": "2017-03-01T00:00:00",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "company": "Concrete Innovation Conference ( CIC )"
+        }
+    ],
+    "educations": [
+        {
+            "key": "6ed5e74b47eb0860ef3a8d03bee8f95128463fa3",
+            "title": "Master of Science ( MSc )",
+            "description": "Technische Universität Wien\n Master of Science ( MSc ) / Dipl . - Ing . , Architecture , Spatial Planning\n  - \n Diploma thesis : E Mare Libertas ( Prof . Dr . Berthold ) - Archdiploma 1 9 ; eVolo & 3 DHubs shortlist . This\n project looked at densification strategies for  and proposed a vertically stacked , modular\n skyscraper on the sea using generative design and environmental analysis .",
+            "location": {
+                "text": "Singapore",
+                "lat": 1.29041,
+                "lng": 103.85211,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2016-01-01T00:00:00",
+            "date_end": "2018-01-01T00:00:00",
+            "skills": [],
+            "certifications": [],
+            "courses": [
+                {
+                    "name": "architecture",
+                    "value": null
+                },
+                {
+                    "name": "spatial planning",
+                    "value": null
+                }
+            ],
+            "tasks": [],
+            "school": "Technische Universität Wien"
+        },
+        {
+            "key": "ab284450d12c2ec0f7e5162b31e016519bd946fa",
+            "title": "Bachelor of Science ( BSc )",
+            "description": "Leopold - Franzens Universität Innsbruck\n Bachelor of Science ( BSc ) , Architecture\n  - \n Bachelorthesis Prof . Theo Spyropolous ( Director AADRL ) , Electives at ioud and Studio FRoche",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2013-01-01T00:00:00",
+            "date_end": "2014-01-01T00:00:00",
+            "skills": [],
+            "certifications": [],
+            "courses": [
+                {
+                    "name": "architecture",
+                    "value": null
+                }
+            ],
+            "tasks": [],
+            "school": "Leopold - Franzens Universität Innsbruck"
+        },
+        {
+            "key": "11f605d7f1f70d87a6dabb998007dfad69f81e9b",
+            "title": "Architectural Sciences",
+            "description": "Politecnico di Milano\n Architectural Sciences\n  - \n Language stay Como ( one month ) and  ( one month ) . Travelling Workshops , Parametric Design\n and Geometry Coursework .",
+            "location": {
+                "text": "Perugia",
+                "lat": 43.11136,
+                "lng": 12.38392,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2012-01-01T00:00:00",
+            "date_end": "2013-01-01T00:00:00",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "school": "Politecnico di Milano"
+        },
+        {
+            "key": "faad8172a3fbbd6fb8d0df17b020dc477c662525",
+            "title": "",
+            "description": "Fab ( rication ) Academy - Massachusetts Institute of Technology",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": null,
+            "date_end": null,
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "school": "Academy - Massachusetts Institute of Technology"
+        },
+        {
+            "key": "5b25de023b61029a91736d52c761919e3b142278",
+            "title": "",
+            "description": "Australian Manufacturing Academy - Advanced Manufacturing Growth Centre Ltd",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": null,
+            "date_end": null,
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "school": "Australian Manufacturing Academy - Advanced Manufacturing Growth Centre Ltd"
+        },
+        {
+            "key": "fed9653ae660fd67f73a477981f6bc1b123dfdb3",
+            "title": " Scholarship for studying",
+            "description": "Technology Entrepreneurship : Lab to Market - HarvardX Erasmus Exchange Scholarship - Austrian Exchange Service ( OeAD )\n \n Scholarship for studying at Politecnico di Milano (  ) .",
+            "location": {
+                "text": "Italy",
+                "lat": 41.90323,
+                "lng": 12.49566,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": null,
+            "date_end": null,
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "school": "HarvardX"
+        },
+        {
+            "key": "114fa8d052e3902798f09c2f5d28bfa59b3bcfc8",
+            "title": "Scholarship for working at Fabrication Laboratory ( FabLab )",
+            "description": "Leonardo da Vinci Grant - European Comission Life Long Learning Programme\n ( LLP )\n \n Scholarship for working at Fabrication Laboratory ( FabLab ) / IaaC Barcelona (  ) .",
+            "location": {
+                "text": "Spain",
+                "lat": 40.41956,
+                "lng": -3.69196,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2015-02-01T00:00:00",
+            "date_end": "2015-02-28T00:00:00",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "school": "Leonardo da Vinci Grant - European Comission Life Long Learning Programme"
+        },
+        {
+            "key": "b8827ea1bdc5cfce472b7f26fc9cad63d16db312",
+            "title": "",
+            "description": "Joint Study Scholarship - State of Tyrol , \n \n Scholarship for studying at RMIT University ( Australia ) .",
+            "location": {
+                "text": "Austria",
+                "lat": 48.20263,
+                "lng": 16.36843,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2015-07-01T00:00:00",
+            "date_end": "2015-07-31T00:00:00",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "school": "Joint Study Scholarship - State of Tyrol"
+        },
+        {
+            "key": "3152caac933eabefeab17c4dce722dd2a8023c33",
+            "title": "Diploma thesis biennal exhibition",
+            "description": "Archdiploma  Exhibition - TU Wien\n \n Diploma thesis biennal exhibition at TVFA Hall in  ( 1 / 5 6 chosen projects of two years )\n Project : \" E Mare Libertas \" on modular construction for stacked off - shore housing in Singapore",
+            "location": {
+                "text": "Vienna",
+                "lat": 48.20263,
+                "lng": 16.36843,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2019-01-01T00:00:00",
+            "date_end": "2019-11-01T00:00:00",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "school": "Exhibition - TU Wien"
+        }
+    ],
+    "attachments": [
+        {
+            "type": "original",
+            "alt": "b0a207addf66fde7fb315e1919e8e697828249db",
+            "file_size": 118037,
+            "file_name": "original",
+            "original_file_name": "original",
+            "extension": ".pdf",
+            "public_url": "https://riminder-documents-eu-2019-12.s3-eu-west-1.amazonaws.com/teams/786243bd688f6789122701a2e9b70f56cabe575e/sources/ba83334325f8a2ec307a15068c66384828c4ab56/profiles/08722398b83e867d39c49b51f2fb050ef89efcc4/parsing/original.pdf",
+            "updated_at": "2022-04-05T09:06:51+0000",
+            "created_at": "2022-04-05T09:06:51+0000"
+        },
+        {
+            "type": "resume",
+            "alt": "49cdedb4fd1da97103467c31ec5d9d502c345cac",
+            "file_size": 117549,
+            "file_name": "resume",
+            "original_file_name": "resume",
+            "extension": ".pdf",
+            "public_url": "https://riminder-documents-eu-2019-12.s3-eu-west-1.amazonaws.com/teams/786243bd688f6789122701a2e9b70f56cabe575e/sources/ba83334325f8a2ec307a15068c66384828c4ab56/profiles/08722398b83e867d39c49b51f2fb050ef89efcc4/parsing/resume.pdf",
+            "updated_at": "2022-04-05T09:06:51+0000",
+            "created_at": "2022-04-05T09:06:51+0000"
+        }
+    ],
+    "skills": [
+        {
+            "name": "rapid prototyping",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "3d printing",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "information architecture",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "design research",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "robotics",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "consulting",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "business strategy",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "design thinking",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "mesh mould",
+            "type": "hard",
+            "value": null
+        }
+    ],
+    "languages": [],
+    "certifications": [],
+    "courses": [],
+    "tasks": [
+        {
+            "name": "project management",
+            "value": null
+        }
+    ],
+    "interests": [],
+    "labels": [],
+    "tags": [
+        {
+            "name": "referrer",
+            "value": null
+        }
+    ],
+    "metadatas": []
+}

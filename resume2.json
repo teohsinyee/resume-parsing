@@ -1,0 +1,549 @@
+{
+    "source_key": "ba83334325f8a2ec307a15068c66384828c4ab56",
+    "id": 4281323,
+    "key": "0c1d3ed31354320d63a1347bc839ca1a660da41c",
+    "reference": "",
+    "consent_algorithmic": {
+        "owner": {
+            "parsing": false,
+            "revealing": false,
+            "embedding": false,
+            "searching": false,
+            "scoring": false,
+            "reasoning": false
+        },
+        "controller": {
+            "parsing": false,
+            "revealing": false,
+            "embedding": false,
+            "searching": false,
+            "scoring": false,
+            "reasoning": false
+        }
+    },
+    "source": {
+        "key": "ba83334325f8a2ec307a15068c66384828c4ab56",
+        "name": "profile-labs",
+        "type": "api",
+        "subtype": "http_api",
+        "environment": "production"
+    },
+    "archive": null,
+    "archived_at": null,
+    "updated_at": "2022-04-05T09:01:58+0000",
+    "created_at": "2022-04-05T09:01:58+0000",
+    "info": {
+        "full_name": "Muhammad Akmal Amni Bin Ahnuar",
+        "first_name": "Muhammad Akmal",
+        "last_name": "Amni Bin Ahnuar",
+        "email": "akmalamni@gmail.com",
+        "phone": "0104041814",
+        "date_birth": null,
+        "location": {
+            "text": "9 , Lorong Bendahara 1 0 , Bertam Perdana 2 , 1 3 2 0 0 Kepala Batas , Pulau Pinang",
+            "lat": 5.52275,
+            "lng": 100.46883,
+            "gmaps": null,
+            "fields": {
+                "category": null,
+                "city": "Kepala Batas",
+                "city_district": "Bertam Perdana 2",
+                "country": "MYS",
+                "country_region": null,
+                "entrance": null,
+                "house": null,
+                "house_number": "2",
+                "island": null,
+                "level": null,
+                "near": null,
+                "po_box": null,
+                "postcode": "13200",
+                "road": "Lorong Bendahara 1",
+                "staircase": null,
+                "state": "Penang",
+                "state_district": "Seberang Perai Utara",
+                "suburb": "Bertam Perdana 2",
+                "text": "2 Lorong Bendahara 1, Bertam Perdana 2, 13200 Kepala Batas, Penang, Malaysia",
+                "unit": null,
+                "world_region": null
+            }
+        },
+        "urls": [
+            {
+                "type": "linkedin",
+                "url": "www.linkedin.com/in/akmalamni"
+            }
+        ],
+        "picture": "https://riminder-documents-eu-2019-12.s3-eu-west-1.amazonaws.com/teams/786243bd688f6789122701a2e9b70f56cabe575e/sources/ba83334325f8a2ec307a15068c66384828c4ab56/profiles/0c1d3ed31354320d63a1347bc839ca1a660da41c/parsing/picture.png",
+        "gender": "male",
+        "summary": "I am a resilient , strongly motivated and adaptable Computer Science student proactively seeking for\n career opportunities primarily within or outside the field of my study using the knowledge I have\n acquired in C + + , Java and Python as well as other fundamental software development practices . I am\n currently focusing on the prospect of Machine Learning , Data analytics and Modelling as well as Artificial\n Intelligence , and am very keen on gaining more learning experience in the overall field of software\n development . Am also experienced in team and event management ."
+    },
+    "text_language": "en",
+    "text": "Page 1 \nMuhammad Akmal Amni Bin Ahnuar \nakmalamni@gmail.com | 010-4041814 | www.linkedin.com/in/akmalamni \n9, Lorong Bendahara 10, Bertam Perdana 2, 13200 Kepala Batas, Pulau Pinang \n \n \nProfessional Objective \nI am a resilient, strongly motivated and adaptable Computer Science student proactively seeking for \ncareer opportunities primarily within or outside the field of my study using the knowledge I have \nacquired in C++, Java and Python as well as other fundamental software development practices. I am \ncurrently focusing on the prospect of Machine Learning, Data analytics and Modelling as well as Artificial \nIntelligence, and am very keen on gaining more learning experience in the overall field of software \ndevelopment. Am also experienced in team and event management. \nEducation \nUniversiti Tenaga Nasional (UNITEN) | Bachelor of Computer Science \n(Software Engineering) (Hons.) (CGPA 3.89)  \n \n \n \n \n \nONGOING \n• \nPlaced in Dean’s List in 5 out of 6 semesters enrolled \n \nUniversiti Tenaga Nasional (UNITEN) | Foundation in Engineering (CGPA 3.97)   \nOctober 2017 \n \nSekolah Menengah Sains Kepala Batas | Science (SPM 9As: 3 A+, 5 A, 1 A-) \n \nDecember 2014  \nRelated Courses \nCSNB143: Discrete Structures \nCSEB274: Requirement Engineering PHY 482: \nCSEB324: Data Structure and Algorithm \nCSEB294: Web Programming \n \nCSNB234: Artificial Intelligence \nCSEB534: Java Programming \nAcademic Projects \nHaze Analysis, Prediction and Management System | Final Year Project \nUsing SciPy libraries on Python and incorporating Support Vector Machines (SVM) for the model for a basic \nmachine learning program to build projection data set to predict likelihood as well as the degree of haze’s API \nreading. The program would later would use a web-based application developed using Laravel to showcase as well \nas provide data for further decision-making options for users. \n \n \n \n\nPage 2 \nExtra-Curricular Activities \nEsports Club President | UNITEN             \n \n \n \n             September 2019 – Present \nResponsibility revolves around having an overview over the management and administrative operation of the club \nand providing leadership and support to all its members which includes team management, event management, \nofficial documents writing, and coordinated communications between University administrative board, committee \nmembers as well as the general students. \nReply Challenge: Code Challenge 2020 | Participant  \n \n       \n \n \n      May 2020 \nParticipated in an international coding challenge hosted by Reply Challenge. Teamed up with international \nstudents to solve a coding problem which revolved around file reading, writing and algorithm development. \nICTFF | Participant | UNITEN \n \n \n \n \n \n  \n \n            October 2020 \nCompeted against numerous universities in a Capture The Flag competition. Managed to get fourth place after \nsolving a series of cybersecurity oriented problems. \nUniten Inside Out Virtual Fest | Program Director | UNITEN      \n \n    July 2020 – August 2020 \nCoordinated two events under UNITEN's INSIDE OUT programme in conjunction with Malaysia's Ministry Higher \nEducation 'Jom Masuk IPT' programme. The two events, a Virtual Sharing Session as well as 3 Esports \ntournaments, were held to advertise UNITEN as the choice for furthering studies for future students \nSkills and Abilities \nProgramming Skills: \n• \nJava \n• \nC++ \n• \nPython \n• \nC \n• \nOctave  \n• \nPHP  \n• \nHTML \n• \nMachine Learning \n \n \n \nInterpersonal Skills: \n• \nTeam Management \n• \nEvent Management \n• \nDiplomatic Communication \nLanguage \n• Malay (Native)  \n• English (Bilingual Proficiency) \n• Japanese (Limited Working Proficiency) \nScholarship \nYayasan Tenaga Nasional (for Bachelor’s Degree) \nReferences \nRAJA FENINFERINA BINTI RAJA AZMAN, Y.M. \nLecturer \nUniversiti Tenaga Nasional \n03-89212020 Ext: 2355 \nFerina@uniten.edu.my \n \nMOAMIN A MAHMOUD, DR. \nAcademic Coordinator \nUniversiti Tenaga Nasional \n03-89212020 Ext: 3413 \nmoamin@uniten.edu.my\n \n",
+    "experiences_duration": 2.5955516960177,
+    "educations_duration": 0.16438356164384,
+    "experiences": [
+        {
+            "key": "30c15161d9decbcb236c9612e9a68d885c29dd70",
+            "title": "",
+            "description": "CSNB 2 3 4 : Artificial Intelligence\n CSEB 5 3 4 : Java Programming\n\n CSEB 2 7 4 : Requirement Engineering PHY 4 8 2 :\n CSEB 3 2 4 : Data Structure and Algorithm\n CSEB 2 9 4 : Web Programming",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": null,
+            "date_end": null,
+            "skills": [
+                {
+                    "name": "cseb 2 9 4",
+                    "type": "hard",
+                    "value": null
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "company": ""
+        },
+        {
+            "key": "fb9ef22bb685c681ba9cda5ceed6af316f7ad5b1",
+            "title": "",
+            "description": "Haze Analysis , Prediction and Management System | Final Year Project\n Using SciPy libraries on Python and incorporating Support Vector Machines ( SVM ) for the model for a basic\n machine learning program to build projection data set to predict likelihood as well as the degree of haze ’ s API\n reading . The program would later would use a web - based application developed using Laravel to showcase as well\n as provide data for further decision - making options for users .",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": null,
+            "date_end": null,
+            "skills": [
+                {
+                    "name": "haze analysis",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "management system",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "scipy",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "python",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "support vector machines",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "svm",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "api",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "laravel",
+                    "type": "hard",
+                    "value": null
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "company": ""
+        },
+        {
+            "key": "f033eab4a7469f854c03551f6dec4cdb68f18f5e",
+            "title": "Extra - Curricular Activities Esports Club President",
+            "description": "Extra - Curricular Activities\n Esports Club President | UNITEN\n  – \n\n Responsibility revolves around having an overview over the management and administrative operation of the club\n and providing leadership and support to all its members which includes team management , event management ,\n official documents writing , and coordinated communications between University administrative board , committee\n members as well as the general students .",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2019-09-01T00:00:00",
+            "date_end": "2022-04-05T09:01:58.285616",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [
+                {
+                    "name": "event management",
+                    "value": null
+                },
+                {
+                    "name": "official documents writing",
+                    "value": null
+                },
+                {
+                    "name": "committee members as well as the general students",
+                    "value": null
+                }
+            ],
+            "company": "UNITEN"
+        },
+        {
+            "key": "f710512a08de9d59625803ea8e5b8b8aa04186a3",
+            "title": "",
+            "description": "Reply Challenge : Code Challenge 2 0 2 0 | Participant\n \n\n Participated in an international coding challenge hosted by Reply Challenge . Teamed up with international\n students to solve a coding problem which revolved around file reading , writing and algorithm development .",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2020-05-01T00:00:00",
+            "date_end": "2020-05-31T00:00:00",
+            "skills": [
+                {
+                    "name": "code challenge 2 0 2 0",
+                    "type": "hard",
+                    "value": null
+                },
+                {
+                    "name": "reply challenge",
+                    "type": "hard",
+                    "value": null
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "tasks": [
+                {
+                    "name": "teamed up with international students to solve a coding problem which revolved around file reading",
+                    "value": null
+                },
+                {
+                    "name": "writing and algorithm development",
+                    "value": null
+                }
+            ],
+            "company": ""
+        },
+        {
+            "key": "68d1631d0763a70006bd238fd2a6e8624e5c2f0a",
+            "title": "",
+            "description": "ICTFF | Participant | UNITEN\n \n\n Competed against numerous universities in a Capture The Flag competition . Managed to get fourth place after\n solving a series of cybersecurity oriented problems .",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2020-10-01T00:00:00",
+            "date_end": "2020-10-31T00:00:00",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "company": "ICTFF"
+        },
+        {
+            "key": "00e6f43f6ad9f230b66c792bad22d0aed4f7a871",
+            "title": "Uniten Inside Out Virtual Fest",
+            "description": "Uniten Inside Out Virtual Fest | Program Director | UNITEN\n  – \n\n Coordinated two events under UNITEN ' s INSIDE OUT programme in conjunction with  ' s Ministry Higher\n Education ' Jom Masuk IPT ' programme . The two events , a Virtual Sharing Session as well as 3 Esports\n tournaments , were held to advertise UNITEN as the choice for furthering studies for future students",
+            "location": {
+                "text": "Malaysia",
+                "lat": 3.1479,
+                "lng": 101.69405,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2020-07-01T00:00:00",
+            "date_end": "2020-08-01T00:00:00",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "company": "UNITEN"
+        }
+    ],
+    "educations": [
+        {
+            "key": "2d4fede64737bcf83afa57703ccb1c08bff63859",
+            "title": "Bachelor of Computer Science",
+            "description": "Universiti Tenaga Nasional ( UNITEN ) | Bachelor of Computer Science\n ( Software Engineering ) ( Hons . ) ( CGPA 3 . 8 9 )\n ONGOING\n\n •\n Placed in Dean ’ s List in 5 out of 6 semesters enrolled",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": null,
+            "date_end": null,
+            "skills": [],
+            "certifications": [],
+            "courses": [
+                {
+                    "name": "software engineering",
+                    "value": null
+                }
+            ],
+            "tasks": [],
+            "school": "Universiti Tenaga Nasional ( UNITEN )"
+        },
+        {
+            "key": "0c96df37bff2bcf3373af28d8917d103741bfca3",
+            "title": "Foundation in Engineering",
+            "description": "Universiti Tenaga Nasional ( UNITEN ) | Foundation in Engineering ( CGPA 3 . 9 7 )",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2017-10-01T00:00:00",
+            "date_end": "2017-10-31T00:00:00",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "school": "Universiti Tenaga Nasional ( UNITEN )"
+        },
+        {
+            "key": "60d3b47ebdad874f1468f00f656f4fcfd3fa491c",
+            "title": "",
+            "description": "Sekolah Menengah Sains Kepala Batas | Science ( SPM 9 As : 3 A + , 5 A , 1 A - )",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": "2014-12-01T00:00:00",
+            "date_end": "2014-12-31T00:00:00",
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "school": "Sekolah Menengah Sains Kepala Batas"
+        },
+        {
+            "key": "2ec8d3d9f589ef23de366a277cc149fe3a38e216",
+            "title": "CSNB 1 4 3 : Discrete Structures",
+            "description": "CSNB 1 4 3 : Discrete Structures",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": null,
+            "date_end": null,
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "school": ""
+        },
+        {
+            "key": "7ca4eacb00c1aaaac907712a5299db90d4ab04c2",
+            "title": "",
+            "description": "Yayasan Tenaga Nasional ( for Bachelor ’ s Degree )",
+            "location": {
+                "text": null,
+                "lat": null,
+                "lng": null,
+                "gmaps": null,
+                "fields": null
+            },
+            "date_start": null,
+            "date_end": null,
+            "skills": [],
+            "certifications": [],
+            "courses": [],
+            "tasks": [],
+            "school": "Yayasan Tenaga Nasional"
+        }
+    ],
+    "attachments": [
+        {
+            "type": "original",
+            "alt": "5b24c85d92eef426fc71dc13c6f1b12d540dc9ce",
+            "file_size": 169252,
+            "file_name": "original",
+            "original_file_name": "original",
+            "extension": ".pdf",
+            "public_url": "https://riminder-documents-eu-2019-12.s3-eu-west-1.amazonaws.com/teams/786243bd688f6789122701a2e9b70f56cabe575e/sources/ba83334325f8a2ec307a15068c66384828c4ab56/profiles/0c1d3ed31354320d63a1347bc839ca1a660da41c/parsing/original.pdf",
+            "updated_at": "2022-04-05T09:01:58+0000",
+            "created_at": "2022-04-05T09:01:58+0000"
+        },
+        {
+            "type": "resume",
+            "alt": "35bc7c00eb92146a80ea350e609fc06164520300",
+            "file_size": 162962,
+            "file_name": "resume",
+            "original_file_name": "resume",
+            "extension": ".pdf",
+            "public_url": "https://riminder-documents-eu-2019-12.s3-eu-west-1.amazonaws.com/teams/786243bd688f6789122701a2e9b70f56cabe575e/sources/ba83334325f8a2ec307a15068c66384828c4ab56/profiles/0c1d3ed31354320d63a1347bc839ca1a660da41c/parsing/resume.pdf",
+            "updated_at": "2022-04-05T09:01:58+0000",
+            "created_at": "2022-04-05T09:01:58+0000"
+        }
+    ],
+    "skills": [
+        {
+            "name": "c + +",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "java",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "python",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "machine learning",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "cseb 2 9 4",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "haze analysis",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "management system",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "scipy",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "support vector machines",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "svm",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "api",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "laravel",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "motivated",
+            "type": "soft",
+            "value": null
+        },
+        {
+            "name": "code challenge 2 0 2 0",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "reply challenge",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "c",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "octave",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "php",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "html",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "team management",
+            "type": "hard",
+            "value": null
+        },
+        {
+            "name": "event management",
+            "type": "hard",
+            "value": null
+        }
+    ],
+    "languages": [
+        {
+            "name": "malay",
+            "value": null
+        },
+        {
+            "name": "english",
+            "value": null
+        },
+        {
+            "name": "japanese",
+            "value": null
+        }
+    ],
+    "certifications": [],
+    "courses": [],
+    "tasks": [
+        {
+            "name": "teamed up with international students to solve a coding problem which revolved around file reading",
+            "value": null
+        },
+        {
+            "name": "writing and algorithm development",
+            "value": null
+        }
+    ],
+    "interests": [],
+    "labels": [],
+    "tags": [
+        {
+            "name": "referrer",
+            "value": null
+        }
+    ],
+    "metadatas": []
+}
