@@ -73,14 +73,30 @@ https://labs.hrflow.ai/profile-analysis/parsing/
 1. Collected 420 resumes
 2. Annotate manually using Doccano
 3. Split into 80(training), 20(testing)
-3. Develop model using Spacy
+4. Develop model using Spacy
 - Becuz Spacy got higher speed & accuracy
 - Can refer to Spacy archi
-4. Train model
+5. Train model
 - Use techniques like dropout & shuffle data after each iteration
-5. Evaluate model
+6. Evaluate model
 - Use mterics such as accuracy score, precision, recall, and F-score
 
 https://www.kharpann.com/portfolio/named-entity-recognition-from-resumes/
 
-## 8] 
+## 8] Approaches to NER
+### CRF to model sequential data (ML)
+####  Shortcomings
+1. Can capture prev,current words but NOT forward word
+2. Need to do extra feature engineering
+
+### Deep Learning
+1. Evaluate performance using F1 Score (To get balance between precision & recall)
+2. Use Bi-LSTM (To take past & future info AKA 1 LSTM run LEFT to RIGHT, another 1 run RIGHT to LEFT) <br>
+
+_Bi-Directional Architecture_
+1. Bi-LSTM-CRF
+2. Bi-LSTM-CNN
+3. LSTM-CNN-CRF
+4. ELMo
+
+https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-requirement-by-applying-state-of-the-art-deep-698d2b3b4ede
