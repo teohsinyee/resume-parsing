@@ -41,11 +41,31 @@ https://apilayer.com/marketplace/description/skills-api
 https://blog.apilayer.com/build-your-own-resume-parser-using-python-and-nlp/
 
 ## 6] Accurate software demo
+| Personal info      | My comments      |
+| ------------- |:-------------| 
+| Name| Accurate becuz it's simple |
+| Email, Phone | Accurate becuz it's simple (Regex) |
+| Home Address | Segmented to designated fields. Detection of *country & states & postcodes* are accurate. Data enrichment is good (E.g. Convert Pulau Pinang to Penang) |
+| URL | Able to differentiate social media domain such as LinkedIn |
+| Gender | Gender prediction using picture provided |
+
+| Educations     | My comments      |
+| ------------- |:-------------| 
+|Title|Accurate. E.g. Master of Science(Msc) |   
+|Institution name| Can detect non-English| 
+|course titles| Accurate|   
+|Date start & ends| Inaccurate why?|
+
+| Other headers     | My comments      |
+| ------------- |:-------------| 
+| Working experiences | Can't even process 'Research Fellow' or 'tutor'.|   
+| Attachments  | Less useful | 
+| Skills  | Accurate | 
+| Languages  | Accurate | 
+| Tasks  | Less useful | 
+
 - Return in JSON format
-- Gender detection from picture
-- Return address coordinate
-- Education title quite accurate
-- 
+
 https://labs.hrflow.ai/profile-analysis/parsing/
 
 ## 7]
