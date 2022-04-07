@@ -5,8 +5,9 @@
 a. [coordinates](https://www.e-iceblue.com/Tutorials/Spire.PDF/Spire.PDF-Program-Guide/Text/How-to-Get-Coordinates-of-Desired-Text-in-PDF-in-C-VB.NET.html)
 b. [font styles](https://stackoverflow.com/questions/68097779/how-to-find-the-font-size-of-every-paragraph-of-pdf-file-using-python-code)
 3. Test on existing parsers
-a. Tested on 3 tools 
-(https://affinda.com/resume-parser/)
+a. Tested on 3 tools
+Commercial (https://affinda.com/resume-parser/)(https://labs.hrflow.ai/profile-analysis/parsing/) <br>
+Free (https://demos.pragnakalp.com/resume-parser/)
 b. None of it is perfect (Still failed to parse some info)
 4. Study Named Entity Recognition (NER) [On-going]
 a. Because many tagging schemes
