@@ -109,4 +109,9 @@ https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-re
 - *Can do more research on DLA
 https://huggingface.co/spaces/nielsr/dit-document-layout-analysis
 
-## 10] 
+## 10] ML software for extracting information from scholarly documents
+- Can take it as reference as the concept is similar
+- Try install & upload resume
+https://github.com/kermitt2/grobid
+
+## 11] 
