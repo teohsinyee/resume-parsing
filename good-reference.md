@@ -101,3 +101,12 @@ _Bi-Directional Architecture_
 4. ELMo
 
 https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-requirement-by-applying-state-of-the-art-deep-698d2b3b4ede
+
+## 9] Document Layout Analysis with Microsoft’s DiT
+- Input JPG to export layout
+- Able to detect header
+- Can look at the codes & terminologies used
+- *Can do more research on DLA
+https://huggingface.co/spaces/nielsr/dit-document-layout-analysis
+
+## 10] 
