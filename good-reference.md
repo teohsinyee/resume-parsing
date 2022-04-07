@@ -6,6 +6,7 @@ To apply Deep Learning, you'll need many thousands of examples with each section
 There is HR-XML (Human Resources - Extensible Markup Language) which are the industry standards for labels of resume sections.
 
 HR-XML: https://schemas.liquid-technologies.com/hr-xml/2007-04-15/?page=http___ns_hr-xml_org_2007-04-15.html
+<br>
 Question: https://datascience.stackexchange.com/questions/71372/how-to-approach-deep-learning-cv-resume-parser-using-convolutions
 
 ## 2] BroutonLab software
