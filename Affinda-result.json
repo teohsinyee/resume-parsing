@@ -1,0 +1,581 @@
+{
+    "identifier": "GoeuPbKO",
+    "ready": true,
+    "email": "",
+    "proportionComplete": 100,
+    "processing": false,
+    "resumes": [
+        {
+            "data": {
+                "certifications": [
+                    "Programming stacks"
+                ],
+                "dateOfBirth": null,
+                "education": [
+                    {
+                        "organization": "Universiti Sains Malaysia",
+                        "accreditation": {
+                            "education": "Bachelor of Science",
+                            "educationLevel": "bachelors",
+                            "inputStr": "Bachelor of Computer Sciences (Hons.)",
+                            "matchStr": "Bachelor of Computer Sciences Hons"
+                        },
+                        "grade": {
+                            "raw": "CGPA 3.46/4.00",
+                            "value": "3.46/4.00",
+                            "metric": "CGPA"
+                        },
+                        "location": null,
+                        "dates": {
+                            "startDate": "2019-01-01",
+                            "completionDate": "2022-04-07",
+                            "isCurrent": true
+                        }
+                    },
+                    {
+                        "organization": "Computer Sciences Universiti Sains Malaysia",
+                        "accreditation": {
+                            "educationLevel": null,
+                            "inputStr": "",
+                            "matchStr": ""
+                        },
+                        "grade": null,
+                        "location": null,
+                        "dates": null
+                    }
+                ],
+                "emails": [
+                    "teohsinyee.cs@gmail.com"
+                ],
+                "location": {
+                    "formatted": "Ipoh, Perak, Malaysia",
+                    "streetNumber": null,
+                    "street": null,
+                    "apartmentNumber": null,
+                    "city": "Ipoh",
+                    "postalCode": null,
+                    "state": "Perak",
+                    "country": "Malaysia",
+                    "rawInput": "Ipoh, Perak, Malaysia",
+                    "countryCode": "MY"
+                },
+                "name": {
+                    "raw": "TEOH SIN YEE",
+                    "last": "Yee",
+                    "first": "Teoh",
+                    "title": "",
+                    "middle": "Sin"
+                },
+                "objective": "",
+                "phoneNumbers": [
+                    "+601120132175",
+                    "+60193131449"
+                ],
+                "publications": [],
+                "referees": [
+                    {
+                        "name": "Nurul Hashimah Ahamed Hassain Malim",
+                        "text": "Nurul Hashimah Ahamed Hassain Malim Senior Lecturer, Deputy Dean School of Computer Sciences Universiti Sains Malaysia",
+                        "email": null,
+                        "number": null
+                    }
+                ],
+                "sections": [
+                    {
+                        "sectionType": "PersonalDetails",
+                        "bbox": [
+                            71.46,
+                            75.85571,
+                            525.922,
+                            148.86804
+                        ],
+                        "pageIndex": 0,
+                        "text": "TEOH SIN YEE teohsinyee.cs@gmail.com www.linkedin.com/in/teohsinyee https://github.com/teohsinyee Contact Number: +6011-20132175 Hometown: Ipoh, Perak, Malaysia ___________________________________________________________________________"
+                    },
+                    {
+                        "sectionType": "Education",
+                        "bbox": [
+                            72.19199,
+                            162.39838,
+                            373.02197,
+                            257.9361
+                        ],
+                        "pageIndex": 0,
+                        "text": "EDUCATION Universiti Sains Malaysia (2019 – Present) Bachelor of Computer Sciences (Hons.) • Currently in Sem 5 (8 semesters in total) • Major in Intelligent Computing, Minor in Management • CGPA 3.46/4.00"
+                    },
+                    {
+                        "sectionType": "WorkExperience",
+                        "bbox": [
+                            72.08399,
+                            287.70837,
+                            491.302,
+                            383.05405
+                        ],
+                        "pageIndex": 0,
+                        "text": "WORKING EXPERIENCE Hilti Asia IT Services Sdn Bhd (Sep 2021- Present) Working as Part-time System tester in a team and find bugs from Hilti ON!Track Asset Management Application School of Computer Sciences Universiti Sains Malaysia (Oct 2021- Present) Working as Tutor and teaching 110 CS students foundations of software engineering"
+                    },
+                    {
+                        "sectionType": "Achievements",
+                        "bbox": [
+                            72.15035,
+                            412.97437,
+                            517.72,
+                            470.06204
+                        ],
+                        "pageIndex": 0,
+                        "text": "AWARDS AND RECOGNITION Microsoft Learn Student Ambassador (Jan 2021- Present) Tan Sri Lee Loy Seng Foundation Scholarship by Kuala Lumpur Kepong Berhad (Sep 2019- Present)"
+                    },
+                    {
+                        "sectionType": "Projects",
+                        "bbox": [
+                            72.228,
+                            500.36844,
+                            477.28003,
+                            528.15405
+                        ],
+                        "pageIndex": 0,
+                        "text": "PROJECT EXPERIENCE Research: Exploring Foodpanda consumer reviews using Part of speech and N-gram"
+                    },
+                    {
+                        "sectionType": "Extracurriculars/Leadership",
+                        "bbox": [
+                            72.215996,
+                            555.5544,
+                            512.884,
+                            635.296
+                        ],
+                        "pageIndex": 0,
+                        "text": "LEADERSHIP & INVOLVEMENT Project Director of CS Final Year Project Showcase, Pixel 2021 (Apr 2021- Sep 2021) • Lead a team of 48 members of Computer Science Society USM • Designed a Virtual Showcase Website within 3 months and gained 20,000 visits in 1 week"
+                    },
+                    {
+                        "sectionType": "Skills/Interests/Languages",
+                        "bbox": [
+                            72.215996,
+                            665.14435,
+                            516.99396,
+                            754.77606
+                        ],
+                        "pageIndex": 0,
+                        "text": "SKILLS Programming stacks In general: familiar with Python, R • Artificial Intelligence Natural Language Processing, Machine Learning, Deep Learning, SQL, Microsoft Power BI, Microsoft Excel"
+                    },
+                    {
+                        "sectionType": "Footer",
+                        "bbox": [
+                            463.012,
+                            781.56006,
+                            522.952,
+                            792.9241
+                        ],
+                        "pageIndex": 0,
+                        "text": "Page 1 of 2"
+                    },
+                    {
+                        "sectionType": "Skills/Interests/Languages",
+                        "bbox": [
+                            72.16799,
+                            74.96405,
+                            274.212,
+                            99.584045
+                        ],
+                        "pageIndex": 1,
+                        "text": "Language Spoken Chinese (Native Speaker), English, Malay"
+                    },
+                    {
+                        "sectionType": "Referees",
+                        "bbox": [
+                            72.203995,
+                            136.56903,
+                            384.732,
+                            209.86407
+                        ],
+                        "pageIndex": 1,
+                        "text": "REFEREE Associate Professor Dr Nurul Hashimah Ahamed Hassain Malim Senior Lecturer, Deputy Dean School of Computer Sciences Universiti Sains Malaysia"
+                    },
+                    {
+                        "sectionType": "PersonalDetails",
+                        "bbox": [
+                            72.215996,
+                            214.02802,
+                            192.41998,
+                            239.74402
+                        ],
+                        "pageIndex": 1,
+                        "text": "+60 19-313 1449 nurulhashimah@usm.my"
+                    },
+                    {
+                        "sectionType": "Footer",
+                        "bbox": [
+                            463.012,
+                            781.56006,
+                            522.952,
+                            792.9241
+                        ],
+                        "pageIndex": 1,
+                        "text": "Page 2 of 2"
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Software Engineering",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "WorkExperience",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mandarin Chinese",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "soft_skill",
+                        "sources": [
+                            {
+                                "section": "Skills/Interests/Languages",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Artificial Intelligence",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "Skills/Interests/Languages",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Software Defined Networking (SDN)",
+                        "lastUsed": "2022-04-07",
+                        "numberOfMonths": 7,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "WorkExperience",
+                                "position": 0
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Machine Learning",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "Skills/Interests/Languages",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Malaysia",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "WorkExperience",
+                                "position": null
+                            },
+                            {
+                                "section": "PersonalDetails",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Final",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "Extracurriculars/Leadership",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "English Language",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "soft_skill",
+                        "sources": [
+                            {
+                                "section": "Skills/Interests/Languages",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Python (Programming Language)",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "Skills/Interests/Languages",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Power BI",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "Skills/Interests/Languages",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Contact",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "PersonalDetails",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "R (Programming Language)",
+                        "lastUsed": "2022-04-07",
+                        "numberOfMonths": 7,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "Achievements",
+                                "position": null
+                            },
+                            {
+                                "section": "Extracurriculars/Leadership",
+                                "position": null
+                            },
+                            {
+                                "section": "PersonalDetails",
+                                "position": null
+                            },
+                            {
+                                "section": "Projects",
+                                "position": null
+                            },
+                            {
+                                "section": "Skills/Interests/Languages",
+                                "position": null
+                            },
+                            {
+                                "section": "WorkExperience",
+                                "position": 0
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Deep Learning",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "Skills/Interests/Languages",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Research",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "soft_skill",
+                        "sources": [
+                            {
+                                "section": "Projects",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Leadership",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "soft_skill",
+                        "sources": [
+                            {
+                                "section": "Extracurriculars/Leadership",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Natural Language Processing",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "Skills/Interests/Languages",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Teaching",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "soft_skill",
+                        "sources": [
+                            {
+                                "section": "WorkExperience",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Oct",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "soft_skill",
+                        "sources": [
+                            {
+                                "section": "WorkExperience",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "SQL (Programming Language)",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "Skills/Interests/Languages",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Microsoft Excel",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "soft_skill",
+                        "sources": [
+                            {
+                                "section": "Skills/Interests/Languages",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Management",
+                        "lastUsed": "2022-04-07",
+                        "numberOfMonths": 7,
+                        "type": "soft_skill",
+                        "sources": [
+                            {
+                                "section": "WorkExperience",
+                                "position": 0
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Malay Language",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "Skills/Interests/Languages",
+                                "position": null
+                            },
+                            {
+                                "section": "WorkExperience",
+                                "position": null
+                            },
+                            {
+                                "section": "PersonalDetails",
+                                "position": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Computer Science",
+                        "lastUsed": null,
+                        "numberOfMonths": null,
+                        "type": "hard_skill",
+                        "sources": [
+                            {
+                                "section": "Extracurriculars/Leadership",
+                                "position": null
+                            },
+                            {
+                                "section": "WorkExperience",
+                                "position": null
+                            }
+                        ]
+                    }
+                ],
+                "languages": [
+                    "English",
+                    "Malay"
+                ],
+                "summary": "",
+                "websites": [
+                    "www.linkedin.com/in/teohsinyee",
+                    "https://github.com/teohsinyee"
+                ],
+                "linkedin": "www.linkedin.com/in/teohsinyee",
+                "totalYearsExperience": 1,
+                "profession": null,
+                "workExperience": [
+                    {
+                        "jobTitle": "",
+                        "organization": "Hilti Asia IT Services Sdn Bhd",
+                        "location": null,
+                        "dates": {
+                            "startDate": "2021-09-01",
+                            "endDate": "2022-04-07",
+                            "monthsInPosition": 7,
+                            "isCurrent": true
+                        },
+                        "jobDescription": "Working as Part-time System tester in a team and find bugs from Hilti ON!Track Asset Management Application ",
+                        "occupation": {
+                            "jobTitle": "",
+                            "jobTitleNormalized": null,
+                            "classification": null,
+                            "managementLevel": null
+                        }
+                    }
+                ],
+                "headShot": null,
+                "isResumeProbability": 83,
+                "rawText": "TEOH SIN YEE teohsinyee.cs@gmail.com www.linkedin.com/in/teohsinyee https://github.com/teohsinyee Contact Number: +6011-20132175 Hometown: Ipoh, Perak, Malaysia ___________________________________________________________________________\nEDUCATION Universiti Sains Malaysia (2019 – Present) Bachelor of Computer Sciences (Hons.) • Currently in Sem 5 (8 semesters in total) • Major in Intelligent Computing, Minor in Management • CGPA 3.46/4.00\nWORKING EXPERIENCE Hilti Asia IT Services Sdn Bhd (Sep 2021- Present) Working as Part-time System tester in a team and find bugs from Hilti ON!Track Asset Management Application School of Computer Sciences Universiti Sains Malaysia (Oct 2021- Present) Working as Tutor and teaching 110 CS students foundations of software engineering\nAWARDS AND RECOGNITION Microsoft Learn Student Ambassador (Jan 2021- Present) Tan Sri Lee Loy Seng Foundation Scholarship by Kuala Lumpur Kepong Berhad (Sep 2019- Present)\nPROJECT EXPERIENCE Research: Exploring Foodpanda consumer reviews using Part of speech and N-gram\nLEADERSHIP & INVOLVEMENT Project Director of CS Final Year Project Showcase, Pixel 2021 (Apr 2021- Sep 2021) • Lead a team of 48 members of Computer Science Society USM • Designed a Virtual Showcase Website within 3 months and gained 20,000 visits in 1 week\nSKILLS Programming stacks In general: familiar with Python, R • Artificial Intelligence Natural Language Processing, Machine Learning, Deep Learning, SQL, Microsoft Power BI, Microsoft Excel\nPage 1 of 2\nLanguage Spoken Chinese (Native Speaker), English, Malay\nREFEREE Associate Professor Dr Nurul Hashimah Ahamed Hassain Malim Senior Lecturer, Deputy Dean School of Computer Sciences Universiti Sains Malaysia\n+60 19-313 1449 nurulhashimah@usm.my\nPage 2 of 2"
+            },
+            "meta": {
+                "identifier": "LadlPAQk",
+                "ready": true,
+                "failed": false,
+                "readyDt": "2022-04-07T06:30:01.073261Z",
+                "fileName": "TeohSinYee_Resume_Internship_USM.pdf",
+                "expiryTime": null
+            },
+            "error": {
+                "errorCode": null,
+                "errorDetail": null
+            }
+        }
+    ]
+}
