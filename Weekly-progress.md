@@ -22,5 +22,5 @@
 
 ## Week 5 (08-Apr to 12-Apr)
 1. Classify 500 resumes into scanned images and contains text folders
-- Will abandon scanned images PDF as for now
+    - Will abandon scanned images PDF as for now
 2. 
