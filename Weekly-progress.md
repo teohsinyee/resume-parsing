@@ -16,6 +16,9 @@
     - Doccano *Make a comparison
     - Brat
 6. Proposed pipeline to Pei Seng 
+#### Feedback
+1. How to compare our parser performance with the existing ones? (Quantitative)
+2. How to test parser result accuracy?
 
 ### Will be working on
 1. Development (Prove proposed pipeline)
