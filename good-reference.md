@@ -114,4 +114,6 @@ https://huggingface.co/spaces/nielsr/dit-document-layout-analysis
 - Try install & upload resume
 https://github.com/kermitt2/grobid
 
-## 11] 
+## 11] Tools to extract text from PDF
+- PDFplumber is outperforming Apache Tika.
+https://towardsdatascience.com/how-to-extract-text-from-pdf-245482a96de7
