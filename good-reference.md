@@ -115,5 +115,10 @@ https://huggingface.co/spaces/nielsr/dit-document-layout-analysis
 https://github.com/kermitt2/grobid
 
 ## 11] Tools to extract text from PDF
-- PDFplumber is outperforming Apache Tika.
+- PDFplumber is outperforming Apache Tika. (Not concrete! Need more research)
 https://towardsdatascience.com/how-to-extract-text-from-pdf-245482a96de7
+
+## 12] Tool to visualize word embedding
+- Can upload annotated sentences here
+- Visualize how near is the sentence
+https://projector.tensorflow.org/
