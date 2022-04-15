@@ -107,18 +107,22 @@ https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-re
 - Able to detect header
 - Can look at the codes & terminologies used
 - *Can do more research on DLA
+
 https://huggingface.co/spaces/nielsr/dit-document-layout-analysis
 
 ## 10] ML software for extracting information from scholarly documents
 - Can take it as reference as the concept is similar
 - Try install & upload resume
+
 https://github.com/kermitt2/grobid
 
 ## 11] Tools to extract text from PDF
 - PDFplumber is outperforming Apache Tika. (Not concrete! Need more research)
+
 https://towardsdatascience.com/how-to-extract-text-from-pdf-245482a96de7
 
 ## 12] Tool to visualize word embedding
 - Can upload annotated sentences here
 - Visualize how near is the sentence
+
 https://projector.tensorflow.org/
