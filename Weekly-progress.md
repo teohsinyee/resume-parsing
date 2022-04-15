@@ -28,4 +28,4 @@
     - Will abandon scanned images PDF as for now
 2. Research on GROBID (extration model of scholar articles) [Deprecated because less useful]
 3. Proposed new pipeline & gained new feedback (Mentor suggested to research more about deep learning)
-4. 
+4. Comparing annotation tool (to annotate text line) : Doccano vs Label studio
