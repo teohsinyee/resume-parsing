@@ -126,3 +126,7 @@ https://towardsdatascience.com/how-to-extract-text-from-pdf-245482a96de7
 - Visualize how near is the sentence
 
 https://projector.tensorflow.org/
+
+## 13] Regex to remove empty lines in VS Code
+- The text output from TIKA contain line breaks
+https://www.trainingdragon.co.uk/blog/how-to-remove-empty-lines-in-visual-studio-code
