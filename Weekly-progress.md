@@ -9,7 +9,7 @@
     - Commercial (https://affinda.com/resume-parser/) (https://labs.hrflow.ai/profile-analysis/parsing/) <br>
     - Free (https://demos.pragnakalp.com/resume-parser/)
     - None of it is perfect (Still failed to parse some info)
-4. Study Named Entity Recognition (NER) [On-going]
+4. Study Named Entity Recognition (NER) [Completed]
     - Because many tagging schemes
     - BIO, BIOSE, IOB, BILOU, BMEWO - Gives different performance
 5. Text annotation tools [On-going]
@@ -23,7 +23,9 @@
 ### Will be working on
 1. Development (Prove proposed pipeline)
 
-## Week 5 (08-Apr to 12-Apr)
+## Week 5 (11-Apr to 15-Apr)
 1. Classify 500 resumes into scanned images and contains text folders
     - Will abandon scanned images PDF as for now
-2. Research on GROBID (extration model of scholar articles) [NOW]
+2. Research on GROBID (extration model of scholar articles) [Deprecated because less useful]
+3. Proposed new pipeline & gained new feedback (Mentor suggested to research more about deep learning)
+4. 
