@@ -7,4 +7,5 @@ Current stage: Building prototype (phase 1 & 2)
    - Refer to [some good references](good-reference.md) <br>
    - Refer [here](Weekly-progress.md) to know my current progress <br>
    - Detailed steps for [Apache TIKA Python setup](tika-python-setup.md)
+   - 
 
