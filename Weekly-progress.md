@@ -29,3 +29,12 @@
 2. Research on GROBID (extration model of scholar articles) [Deprecated because less useful]
 3. Proposed new pipeline & gained new feedback (Mentor suggested to research more about deep learning)
 4. Comparing annotation tool (to annotate text line) : Doccano vs Label studio
+
+## Week 6 (18-Apr to 22-Apr)
+1. Compared Label Studio with Doccano 
+    - Label studio cannot perform multi-label for each line (TBC)
+    - Label studio output is a bit cluttered
+    - Doccano can multi-label & export annotated text in JSON & CSV format
+    - If use Doccano, the input file should contained all resumes text, cannot separated files
+2. Decide annotation labels 
+    - 
