@@ -37,4 +37,8 @@
     - Doccano can multi-label & export annotated text in JSON & CSV format
     - If use Doccano, the input file should contained all resumes text, cannot separated files
 2. Decide annotation labels 
-    - 
+    - 6 Classes (education, ... )
+    - 3 general (header, content, other)
+    - Consider to add sentence writing style (simple,keyvalue,complex)
+3. Brainstorm how to use the annotated text
+    - ???
