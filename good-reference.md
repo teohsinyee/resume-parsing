@@ -132,4 +132,10 @@ https://projector.tensorflow.org/
 
 https://www.trainingdragon.co.uk/blog/how-to-remove-empty-lines-in-visual-studio-code
 
-## 14] 
+## 14] EntityRecognizer model
+- Very complete NER model training process
+
+https://developers.arcgis.com/python/guide/how-named-entity-recognition-works/
+
+## 15] -
+- 
