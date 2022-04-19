@@ -137,5 +137,10 @@ https://www.trainingdragon.co.uk/blog/how-to-remove-empty-lines-in-visual-studio
 
 https://developers.arcgis.com/python/guide/how-named-entity-recognition-works/
 
-## 15] -
+## 15] The pros & cons of label studio
+- The author explains reasons to use label studio and ways to deal with its contraint.
+
+https://medium.com/@astha.agarwal/label-studio-data-collection-for-nlp-tasks-7592ad661e32
+
+## 16] 
 - 
