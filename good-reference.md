@@ -142,5 +142,7 @@ https://developers.arcgis.com/python/guide/how-named-entity-recognition-works/
 
 https://medium.com/@astha.agarwal/label-studio-data-collection-for-nlp-tasks-7592ad661e32
 
-## 16] 
-- 
+## 16] Training Custom NER (Show in & output)
+- how to train and get the custom-named entity from your training data using spacy and python
+
+https://towardsdatascience.com/train-ner-with-custom-training-data-using-spacy-525ce748fab7
