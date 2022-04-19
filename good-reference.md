@@ -146,3 +146,10 @@ https://medium.com/@astha.agarwal/label-studio-data-collection-for-nlp-tasks-759
 - how to train and get the custom-named entity from your training data using spacy and python
 
 https://towardsdatascience.com/train-ner-with-custom-training-data-using-spacy-525ce748fab7
+
+## 17] Product brand detection using NER
+- Approaches have been published in 2022 paper
+- GitHub link is provided
+- Use Bi-LSTM method (Layman's explanation in the paper)
+
+https://datascience.stackexchange.com/questions/107042/custom-named-entity-recognition-ner-in-product-titles-using-deep-learning?rq=1
