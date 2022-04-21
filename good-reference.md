@@ -163,3 +163,7 @@ https://towardsdatascience.com/basics-of-countvectorizer-e26677900f9c
 - Explanation + Codes [On-going]
 
 https://analyticsindiamag.com/guide-to-text-classification-using-textcnn/#:~:text=CNN%20is%20just%20a%20kind,to%20data%20of%20matrix%20form.
+
+## 20] DL Small data
+
+https://nanonets.com/blog/how-to-use-deep-learning-when-you-have-limited-data/
