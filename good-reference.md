@@ -167,3 +167,7 @@ https://analyticsindiamag.com/guide-to-text-classification-using-textcnn/#:~:tex
 ## 20] DL Small data
 
 https://nanonets.com/blog/how-to-use-deep-learning-when-you-have-limited-data/
+
+## 21] Word Embeddings in NLP | Word2Vec | GloVe | fastText
+
+https://medium.com/analytics-vidhya/word-embeddings-in-nlp-word2vec-glove-fasttext-24d4d4286a73
