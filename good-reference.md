@@ -177,4 +177,6 @@ https://medium.com/analytics-vidhya/word-embeddings-in-nlp-word2vec-glove-fastte
 - Covered the comparison between different vectorization techniques
 - GloVe vs Word2Vec vs FastText
 - And when to use each of it
+- GloVe has been found to outperform other models on word analogy, word similarity, and Named Entity Recognition tasks, so if the nature of the problem you’re trying to solve is similar to any of these, GloVe would be a smart choice.
 https://neptune.ai/blog/vectorization-techniques-in-nlp-guide
+
