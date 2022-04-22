@@ -171,3 +171,10 @@ https://nanonets.com/blog/how-to-use-deep-learning-when-you-have-limited-data/
 ## 21] Word Embeddings in NLP | Word2Vec | GloVe | fastText
 
 https://medium.com/analytics-vidhya/word-embeddings-in-nlp-word2vec-glove-fasttext-24d4d4286a73
+
+
+## 22] Vectorization Techniques in NLP
+- Covered the comparison between different vectorization techniques
+- GloVe vs Word2Vec vs FastText
+- And when to use each of it
+https://neptune.ai/blog/vectorization-techniques-in-nlp-guide
