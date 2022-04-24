@@ -39,3 +39,6 @@ doccano webserver --port 8000
 doccano task
 ```
 4. Open http://localhost:8000/.
+
+_Snapshot after running Doccano successfully_ <br>
+<img src="images/logindoccano.png" width="450" height="250">
