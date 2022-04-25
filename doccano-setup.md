@@ -12,15 +12,15 @@
 Requirement: Python 3.8+
 
 ### Install with pip
-1. Open your terminal/command prompt and run: 
+3. Open your terminal/command prompt and run: 
 ```
 pip install doccano
 ```
-3. You need to run this command to initialize database. (Do for the first time ONLY)
+4. You need to run this command to initialize database. (Do for the first time ONLY)
 ```
 doccano init
 ```
-4. Create a super user. (Do for the first time ONLY)
+5. Create a super user. (Do for the first time ONLY)
 ```
 doccano createuser --username admin --password pass
 ```
@@ -29,16 +29,17 @@ Afterwards, you need to use the credentials above to login Doccano web.
 DONE INSTALLATION!
 
 ### Start Doccano server 
-1. You need to run TWO commands before you can use Doccano (Repeat steps 2-4 everytime when you want to use Doccano!)
-2. Start a web server.
+You need to run TWO commands before you can use Doccano (Repeat steps 6-8 everytime when you want to use Doccano!)
+
+6. Start a web server.
 ```
 doccano webserver --port 8000
 ```
-3. Open another terminal to Start the task queue to handle file upload/download
+7. Open another terminal to Start the task queue to handle file upload/download
 ```
 doccano task
 ```
-4. Open http://localhost:8000/.
+8. Open http://localhost:8000/.
 
 _Snapshot after running Doccano successfully_ <br>
 <img src="images/logindoccano.png" width="450" height="250">
