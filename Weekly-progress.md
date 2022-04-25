@@ -42,3 +42,6 @@
     - Consider to add sentence writing style (simple,keyvalue,complex)
 3. Brainstorm how to use the annotated text
     - ???
+
+## Week 7 (25-Apr to 29-Apr)
+1. Study Machine Learning course by Andrew Ng
