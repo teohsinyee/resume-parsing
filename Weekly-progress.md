@@ -44,4 +44,5 @@
     - ???
 
 ## Week 7 (25-Apr to 29-Apr)
-1. Study Machine Learning course by Andrew Ng
+1. Study Machine Learning (only NN part) course by Andrew Ng
+2. Refine the resume tags (change from 6 tags to 13 tags)
