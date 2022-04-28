@@ -46,3 +46,6 @@
 ## Week 7 (25-Apr to 29-Apr)
 1. Study Machine Learning (only NN part) course by Andrew Ng
 2. Refine the resume tags (change from 6 tags to 13 tags)
+3. Improvise literature review of 10 papers 
+4. Annotate 100 resumes using Doccano
+5. 
