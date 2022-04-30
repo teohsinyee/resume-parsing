@@ -9,4 +9,5 @@ Current stage: Annotate resume text lines for block segmentation
    - Detailed steps for [Apache TIKA Python setup](setup-guidelines/tika-python-setup.md)
    - Detailed steps for [Doccano setup](setup-guidelines/doccano-setup.md)
    - Detailed steps for [Label studio setup](setup-guidelines/labelstudio-setup.md)
+   - All codes stored [here](https://github.com/teohsinyee/resume-parsing/tree/main/codes)
 
