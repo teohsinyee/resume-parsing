@@ -48,4 +48,8 @@
 2. Refine the resume tags (change from 6 tags to 13 tags)
 3. Improvise literature review of 10 papers 
 4. Annotate 100 resumes using Doccano
-5. 
+
+## Week 8 (05-May to 06-May)
+1. Back to stage 1 - segregate all pdf contains tables using Camelot (in-progress)
+
+
