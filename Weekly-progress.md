@@ -51,5 +51,7 @@
 
 ## Week 8 (05-May to 06-May)
 1. Back to stage 1 - segregate all pdf contains tables using Camelot (in-progress)
+2. Extracted 100 resume
+3. Annotate 100 resume using Doccano
 
 
