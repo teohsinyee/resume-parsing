@@ -54,4 +54,5 @@
 2. Extracted 100 resume
 3. Annotate 100 resume using Doccano
 
-
+## Week 9 (10-May to 13-May)
+1. Annotate 100 resume using Doccano
