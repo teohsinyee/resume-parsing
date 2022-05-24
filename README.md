@@ -1,7 +1,7 @@
 # resume-parsing
 Record process to build pipeline for resume parsing.
 
-Current stage: Data cleaning & Annotate resume text lines for block segmentation using Doccano
+Current stage: Building CNN model for block segmentation
 
    - Refer to [my literature review](literature-review.md) <br>
    - Refer to [some good references](good-reference.md) <br>
