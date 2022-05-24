@@ -56,3 +56,11 @@
 
 ## Week 9 (10-May to 13-May)
 1. Annotate 100 resume using Doccano
+
+## Week 10 (17-May to 20-May)
+1. Annotate 100 resume using Google sheets
+2. Built CNN model for sentiment analysis
+
+## Week 11 (17-May to 20-May)
+1. Annotate 100 resume using Google sheets (Done 50%)
+2. Load resume data to CNN model
