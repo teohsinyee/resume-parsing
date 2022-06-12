@@ -68,3 +68,6 @@
 ## Week 13 (__)
 1. Adapt codes for different word embeddings
 2. Find the worst accuracy by changing the number of layers
+
+## Week 14 (__)
+1. Experiment by changing architecture design
