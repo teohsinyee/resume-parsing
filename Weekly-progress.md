@@ -64,3 +64,7 @@
 ## Week 11 (17-May to 20-May)
 1. Annotate 100 resume using Google sheets (Done 50%)
 2. Load resume data to CNN model
+
+## Week 13 (__)
+1. Adapt codes for different word embeddings
+2. Find the worst accuracy by changing the number of layers
