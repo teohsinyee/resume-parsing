@@ -1,7 +1,7 @@
 # resume-parsing
 Record process to build pipeline for resume parsing.
 
-Current stage: Building DL model for block segmentation (CNN)
+Current stage: Building DL model for block segmentation (CNN) & prepare annotation instructions
 
    - Refer to [my literature review](literature-review.md) <br>
    - Refer to [some good references](good-reference.md) <br>
