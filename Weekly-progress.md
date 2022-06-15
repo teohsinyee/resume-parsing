@@ -69,5 +69,9 @@
 1. Adapt codes for different word embeddings
 2. Find the worst accuracy by changing the number of layers
 
-## Week 14 (__)
-1. Experiment by changing architecture design
+## Week 14 (13-June to 17-June)
+1. Prepare annotation guidelines
+2. Rectified previous annotations
+
+## Week 15
+1. 
