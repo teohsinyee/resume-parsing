@@ -1,7 +1,7 @@
 # resume-parsing
 Record process to build pipeline for resume parsing.
 
-Current stage: Literature review for word embedding
+Current stage: Literature review for word embedding & finalize annotation guidelines
 
    - Refer to [my literature review](literature-review.md) <br>
    - Refer to [some good references](good-reference.md) <br>
