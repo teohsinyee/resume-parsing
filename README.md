@@ -1,7 +1,7 @@
 # resume-parsing
 Record process to build pipeline for resume parsing.
 
-Current stage: Literature review for word embedding & adapt embedding to current model
+Current stage: Alter current single-layered CNN architecture & try VGG
 
    - Refer to [my literature review](literature-review.md) <br>
    - Refer to [some good references](good-reference.md) <br>
