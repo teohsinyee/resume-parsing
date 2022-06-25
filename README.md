@@ -3,7 +3,7 @@ Record process to build pipeline for resume parsing.
 
 Current stage: 
 -Alter current single-layered CNN architecture & try VGG <br>
--Research on way to implement bert embedding
+-Research on way to implement bert embedding (KIV - Can't find a way yet)
 
    - Refer to [my literature review](literature-review.md) <br>
    - Refer to [some good references](good-reference.md) <br>
