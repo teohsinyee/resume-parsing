@@ -1,3 +1,4 @@
+Note: I gathered all literature review in an Excel sheet. Will share it here once the project is near completion. 
 # 1] Smart Recruitment — Cracking Resume Parsing through Deep Learning @ Medium
 ### Keypoints
 1. text extraction could not be solved by a single type of algorithm alone.
