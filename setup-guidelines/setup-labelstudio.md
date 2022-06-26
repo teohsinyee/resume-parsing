@@ -1,4 +1,4 @@
-## Install Doccano
+## Install Label Studio
 1. Five ways of installation (Local/Cloud)
     - Install with pip
     - Install with Docker
