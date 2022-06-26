@@ -23,14 +23,14 @@ pip install virtualenv
 virtualenv env
 ```
 _Snapshot of directory of virtual environment_ <br>
-<img src="images/virtualenv.png" width="550" height="250">
+<img src="https://github.com/teohsinyee/resume-parsing/blob/main/images/virtualenv.png" width="550" height="250">
 
 3. Activate virtual environment in directory ‘env’.
 ```
 Scripts\activate
 ```
 _After activation_ <br>
-<img src="images/activate.png" width="450" height="250">
+<img src="https://github.com/teohsinyee/resume-parsing/blob/main/images/activate.png" width="450" height="250">
 
 ### Install Label Studio in Virtual Environment
 
@@ -46,7 +46,7 @@ label-studio
 The default web browser opens automatically at http://localhost:8080 with Label Studio.
 
 _Snapshot after running Label Studio successfully_ <br>
-<img src="images/loginls.png" width="450" height="250">
+<img src="https://github.com/teohsinyee/resume-parsing/blob/main/images/loginls.png" width="450" height="250">
 
 
 (Repeat steps 3 & 5 everytime when you want to use Label Studio! Make sure change directory to the virtual environment)
