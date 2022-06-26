@@ -15,7 +15,7 @@
 5. Text annotation tools [On-going]
     - Doccano *Make a comparison
     - Brat
-6. Proposed pipeline to Pei Seng 
+6. Proposed pipeline to mentor
 #### Feedback
 1. How to compare our parser performance with the existing ones? (Quantitative)
 2. How to test parser result accuracy?
@@ -45,7 +45,7 @@
 
 ## Week 7 (25-Apr to 29-Apr)
 1. Study Machine Learning (only NN part) course by Andrew Ng
-2. Refine the resume tags (change from 6 tags to 13 tags)
+2. Refine the resume tags 
 3. Improvise literature review of 10 papers 
 4. Annotate 100 resumes using Doccano
 
@@ -61,17 +61,32 @@
 1. Annotate 100 resume using Google sheets
 2. Built CNN model for sentiment analysis
 
-## Week 11 (17-May to 20-May)
+## Week 11 (23-May to 25-May)
 1. Annotate 100 resume using Google sheets (Done 50%)
 2. Load resume data to CNN model
 
-## Week 13 (__)
-1. Adapt codes for different word embeddings
-2. Find the worst accuracy by changing the number of layers
+## Week 12 (25-May to 01-June)
+1. Mainly to find out root cause of low test accuracy
+2. Check model accuracy when reducing the number of targeted classes
+3. Assumption: Model with less classes will have higher accuracy
+
+## Week 13 (02-June to 08-June)
+1. Improve the classification report presentation for better visualization 
+2. Result of previous experiment: the model is overfitting
 
 ## Week 14 (13-June to 17-June)
 1. Prepare annotation guidelines
 2. Rectified previous annotations
 
-## Week 15
-1. 
+## Week 15 (20-June to 24-June)
+1. Literature review on word embeddings
+2. Adapt different word embedding to current CNN model
+3. Result shows FastText is the most outperform
+
+## Week 16 (27-June to 01-July)
+1. Find out bottom line accuracy of current CNN model
+2. Try out different models
+3. By the end of week, should push the accuracy to 95%
+
+## Week 17 (...)
+1.
