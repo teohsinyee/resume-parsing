@@ -42,4 +42,4 @@ doccano task
 8. Open http://localhost:8000/.
 
 _Snapshot after running Doccano successfully_ <br>
-<img src="images/logindoccano.png" width="450" height="250">
+<img src="https://github.com/teohsinyee/resume-parsing/blob/main/images/logindoccano.png" width="450" height="250">
