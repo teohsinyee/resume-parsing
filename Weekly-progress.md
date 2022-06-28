@@ -85,7 +85,7 @@
 
 ## Week 16 (27-June to 01-July)
 1. Find out bottom line accuracy of current CNN model
-2. Try out different models
+2. Try out different NN models
 3. By the end of week, should push the accuracy to 95%
 
 ## Week 17 (...)
