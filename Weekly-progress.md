@@ -88,5 +88,5 @@
 2. Try out different NN models (Deeper NN)
 3. By the end of week, should push the accuracy to 95%
 
-## Week 17 (...)
+## Week 17 (04-July to 08-July)
 1.
