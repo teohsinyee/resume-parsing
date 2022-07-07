@@ -183,3 +183,21 @@ https://neptune.ai/blog/vectorization-techniques-in-nlp-guide
 ## 23] Resume parser by National Instruments
 
 https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1952/apply/section/1/?utm_medium=jobshare
+
+## 24] Boostrs
+What are some examples of data science techniques behind it and why is it hard?
+
+- Some of the NLP techniques we use include word embedding and sentence embedding modelssuch as BERT and USE (Universal Sentence Encoder) – which convert a piece of text into a numerical vector. 
+- Following this, we use the associated algorithms to compute distances between vectors (cosine
+similarity, Euclidian distances...). 
+- One of the various tasks we need to achieve is to calculate the ‘distance’ between two jobs. To
+do that, as mentioned, we use sentence embeddings, which is a way to represent any phrase as a vector of numbers which captures its semantic meaning (i.e., the sentence meaning in context).
+- From there, we can calculate the distance between two jobs by simply calculating the distance between their vector representations.
+- Another technique we use is artificial neural networks. The sentence embedding models we use rest on an advanced type of neural network architecture that has been developed to capture the meaning of texts and trained on all of Wikipedia’s articles to do so. 
+- Neural networks offer several benefits:
+  - They model well non-linear relations, which is highly adaptable to language processing.
+  - They scale easily to accommodate training with very large amounts of data.
+  - They mimic the architecture of the brain – which so far performs very well on language.
+- Other AI techniques we use include (non-exhaustive): feed forward neural networks, linear regression, multivariate algorithms, clustering techniques and topic modelling.
+
+
