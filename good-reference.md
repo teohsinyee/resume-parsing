@@ -199,5 +199,6 @@ do that, as mentioned, we use sentence embeddings, which is a way to represent a
   - They scale easily to accommodate training with very large amounts of data.
   - They mimic the architecture of the brain – which so far performs very well on language.
 - Other AI techniques we use include (non-exhaustive): feed forward neural networks, linear regression, multivariate algorithms, clustering techniques and topic modelling.
+READ Boostrs white paper [here](https://github.com/teohsinyee/resume-parsing/blob/main/references/boostrs_jobs_and_skills_ontology.pdf)
 
-
+## 25] 
