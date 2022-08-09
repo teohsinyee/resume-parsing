@@ -88,5 +88,8 @@
 2. Try out different NN models (Deeper NN)
 3. By the end of week, should push the accuracy to 95%
 
-## Week 17 (04-July to 08-July)
-1.
+## Week 22 (08-Aug to 12-Aug)
+1. Improve preprocessing pipeline
+2. Declutter embedding corpus
+
+
