@@ -201,4 +201,5 @@ do that, as mentioned, we use sentence embeddings, which is a way to represent a
 - Other AI techniques we use include (non-exhaustive): feed forward neural networks, linear regression, multivariate algorithms, clustering techniques and topic modelling.
 READ Boostrs white paper [here](https://github.com/teohsinyee/resume-parsing/blob/main/references/boostrs_jobs_and_skills_ontology.pdf)
 
-## 25] 
+## 25] Notebook for BERT NER project
+https://www.kaggle.com/code/jonofields/bert-ner-sentence
