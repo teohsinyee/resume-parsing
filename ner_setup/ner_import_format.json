@@ -1,0 +1,25 @@
+[{
+"data": {
+    "text": "develop this project using C++",
+    "meta_info": {
+      "file_name": "1",
+      "line_id": "1",
+      "label1": "content",
+      "label2": "skill"     
+    } 
+  }
+
+},
+{
+    "data": {
+        "text": "software stack: labview",
+        "meta_info": {
+          "file_name": "1",
+          "line_id": "2",
+          "label1": "content",
+          "label2": "skill"     
+        } 
+      }
+    
+    }
+]
