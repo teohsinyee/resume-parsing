@@ -9,7 +9,8 @@
 2. I will show the steps to install with pip on Windows 10.
     - [Refer here](https://labelstud.io/guide/install.html) if you want to try other way of installation
 
-Requirement: Python 3.6+
+Requirement: Python 3.6+ <br>
+Check way to install Python: https://techdecodetutorials.com/how-to-install-python-on-windows-11/
 
 ### Create Python Virtual Environment
 
